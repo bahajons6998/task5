@@ -1,0 +1,5946 @@
+[
+  {
+    "index": 1,
+    "isbn": "978-0-7945-9331-5",
+    "title": "Non maiores modi eaque",
+    "authors": [
+      "Ing. Mirella Mielcarek"
+    ],
+    "publisher": "Eckbauer GmbH & Co. KGaA",
+    "likes": 4.4,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Non+maiores+modi+eaque"
+  },
+  {
+    "index": 2,
+    "isbn": "978-1-115-34939-0",
+    "title": "Repudiandae illum reiciendis pariatur natus",
+    "authors": [
+      "Univ.Prof. Adeline Ruppersberger MBA."
+    ],
+    "publisher": "Holt Schönland AG & Co. OHG",
+    "likes": 2.0,
+    "reviews": [
+      {
+        "author": "Herr Alessandro Radisch MBA.",
+        "text": "Atque quo ducimus est aut et doloremque. Hic iusto sapiente eum sunt vitae."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Repudiandae+illum+reiciendis+pariatur+natus"
+  },
+  {
+    "index": 3,
+    "isbn": "978-0-7237-2264-9",
+    "title": "Laboriosam possimus inventore fuga dolore vero",
+    "authors": [
+      "Editha Kostolzin"
+    ],
+    "publisher": "Henck Lehmann KG",
+    "likes": 5.2,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Laboriosam+possimus+inventore+fuga+dolore+vero"
+  },
+  {
+    "index": 4,
+    "isbn": "978-0-9642427-4-6",
+    "title": "Maiores reprehenderit occaecati ratione",
+    "authors": [
+      "Rosa Vogt B.Sc.",
+      "Dr. Traudel Bolander MBA."
+    ],
+    "publisher": "Misicher",
+    "likes": 3.1,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Maiores+reprehenderit+occaecati+ratione"
+  },
+  {
+    "index": 5,
+    "isbn": "978-0-214-07154-6",
+    "title": "Eos nisi",
+    "authors": [
+      "Waltraut Carsten-Trommler"
+    ],
+    "publisher": "Jockel Köhler AG & Co. KG",
+    "likes": 4.8,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Eos+nisi"
+  },
+  {
+    "index": 6,
+    "isbn": "978-0-8173-3344-7",
+    "title": "Enim",
+    "authors": [
+      "Viktor Stroh B.A.",
+      "Sara Weiß"
+    ],
+    "publisher": "Süßebier Roht KGaA",
+    "likes": 9.7,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Enim"
+  },
+  {
+    "index": 7,
+    "isbn": "978-1-80007-832-1",
+    "title": "Nisi quibusdam",
+    "authors": [
+      "Henry Kuhl-Schuchhardt"
+    ],
+    "publisher": "Nerger",
+    "likes": 7.8,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Nisi+quibusdam"
+  },
+  {
+    "index": 8,
+    "isbn": "978-0-12-982103-8",
+    "title": "Perspiciatis dignissimos",
+    "authors": [
+      "Gordon Stiffel"
+    ],
+    "publisher": "Ziegert AG",
+    "likes": 6.8,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Perspiciatis+dignissimos"
+  },
+  {
+    "index": 9,
+    "isbn": "978-0-455-41868-1",
+    "title": "Unde quisquam ad similique voluptatibus",
+    "authors": [
+      "Gerhild Stolze",
+      "Meinolf Striebitz"
+    ],
+    "publisher": "Paffrath OHG mbH",
+    "likes": 2.4,
+    "reviews": [
+      {
+        "author": "Prof. Paolo Kostolzin",
+        "text": "Voluptates laudantium pariatur facilis vel repudiandae. Aut esse harum quod impedit cupiditate."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Unde+quisquam+ad+similique+voluptatibus"
+  },
+  {
+    "index": 10,
+    "isbn": "978-0-615-35613-6",
+    "title": "Recusandae nisi culpa sequi dolor quas",
+    "authors": [
+      "Valeria Stadelmann",
+      "Claus-Dieter Drubin"
+    ],
+    "publisher": "Beckmann KGaA",
+    "likes": 7.3,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Recusandae+nisi+culpa+sequi+dolor+quas"
+  },
+  {
+    "index": 11,
+    "isbn": "978-1-5208-4236-3",
+    "title": "Et perferendis quis eius earum suscipit in",
+    "authors": [
+      "Herr Christos Kensy",
+      "Vanessa Bolzmann-Kraushaar"
+    ],
+    "publisher": "Scheibe GmbH & Co. KGaA",
+    "likes": 4.3,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Et+perferendis+quis+eius+earum+suscipit+in"
+  },
+  {
+    "index": 12,
+    "isbn": "978-1-5373-8797-0",
+    "title": "Ut quod",
+    "authors": [
+      "Rotraud Jungfer"
+    ],
+    "publisher": "Noack Ehlert AG",
+    "likes": 0.2,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Ut+quod"
+  },
+  {
+    "index": 13,
+    "isbn": "978-0-620-39313-3",
+    "title": "Quae culpa exercitationem",
+    "authors": [
+      "Engelbert Süßebier",
+      "Frau Aline Becker"
+    ],
+    "publisher": "Mielcarek",
+    "likes": 6.7,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Quae+culpa+exercitationem"
+  },
+  {
+    "index": 14,
+    "isbn": "978-1-5070-2555-0",
+    "title": "Recusandae",
+    "authors": [
+      "Fatma Söding",
+      "Karen Keudel"
+    ],
+    "publisher": "Eberth",
+    "likes": 9.0,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Recusandae"
+  },
+  {
+    "index": 15,
+    "isbn": "978-0-7840-6159-6",
+    "title": "Omnis tenetur maxime",
+    "authors": [
+      "Dipl.-Ing. Mijo Matthäi",
+      "Zofia Klotz"
+    ],
+    "publisher": "Oderwald",
+    "likes": 6.4,
+    "reviews": [
+      {
+        "author": "Wolf-Dieter Aumann",
+        "text": "Numquam excepturi libero pariatur quod provident. At atque alias et."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Omnis+tenetur+maxime"
+  },
+  {
+    "index": 16,
+    "isbn": "978-1-76388-266-9",
+    "title": "Accusantium optio suscipit expedita molestiae",
+    "authors": [
+      "Mohammed Harloff"
+    ],
+    "publisher": "Koch II",
+    "likes": 4.7,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Accusantium+optio+suscipit+expedita+molestiae"
+  },
+  {
+    "index": 17,
+    "isbn": "978-1-84648-092-8",
+    "title": "Facere architecto fugit eum",
+    "authors": [
+      "Walfried Klemm",
+      "Ella Pergande"
+    ],
+    "publisher": "Gunpf",
+    "likes": 8.8,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Facere+architecto+fugit+eum"
+  },
+  {
+    "index": 18,
+    "isbn": "978-0-7695-5999-5",
+    "title": "Repudiandae perferendis fugit",
+    "authors": [
+      "Magret Röhrdanz",
+      "Lilo Juncken-Wähner"
+    ],
+    "publisher": "Wähner AG & Co. KG",
+    "likes": 2.2,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Repudiandae+perferendis+fugit"
+  },
+  {
+    "index": 19,
+    "isbn": "978-1-55872-431-0",
+    "title": "Sunt sint aut labore",
+    "authors": [
+      "Wigbert Stroh",
+      "Detlef Caspar"
+    ],
+    "publisher": "Tintzmann GmbH",
+    "likes": 9.3,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Sunt+sint+aut+labore"
+  },
+  {
+    "index": 20,
+    "isbn": "978-1-08-420097-5",
+    "title": "Aut tenetur minima iure",
+    "authors": [
+      "Aleksej Karge B.Sc."
+    ],
+    "publisher": "Trommler",
+    "likes": 9.4,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Aut+tenetur+minima+iure"
+  },
+  {
+    "index": 21,
+    "isbn": "978-0-10-166375-5",
+    "title": "Nemo non",
+    "authors": [
+      "Fabian Gröttner-Schacht"
+    ],
+    "publisher": "Etzler OHG mbH",
+    "likes": 7.0,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Nemo+non"
+  },
+  {
+    "index": 22,
+    "isbn": "978-1-64535-390-4",
+    "title": "Quaerat vitae ipsum",
+    "authors": [
+      "Karl-Otto Juncken",
+      "Kristin Langern"
+    ],
+    "publisher": "Kramer Scholl AG & Co. KG",
+    "likes": 4.2,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Quaerat+vitae+ipsum"
+  },
+  {
+    "index": 23,
+    "isbn": "978-1-4471-4839-5",
+    "title": "Iure ad illo deserunt minima",
+    "authors": [
+      "Herr Gerfried Hering B.Eng."
+    ],
+    "publisher": "Eberhardt KG",
+    "likes": 5.8,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Iure+ad+illo+deserunt+minima"
+  },
+  {
+    "index": 24,
+    "isbn": "978-1-66417-010-0",
+    "title": "Exercitationem sapiente sit",
+    "authors": [
+      "Utz Blümel"
+    ],
+    "publisher": "Schmiedt",
+    "likes": 4.7,
+    "reviews": [
+      {
+        "author": "Ehrentraud Käster",
+        "text": "Modi excepturi porro velit recusandae error."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Exercitationem+sapiente+sit"
+  },
+  {
+    "index": 25,
+    "isbn": "978-0-277-37816-3",
+    "title": "Vero libero ipsam",
+    "authors": [
+      "Ottomar Weinhage B.Eng.",
+      "Dr. Gerard Krein B.Eng."
+    ],
+    "publisher": "Anders Reinhardt OHG mbH",
+    "likes": 4.8,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Vero+libero+ipsam"
+  },
+  {
+    "index": 26,
+    "isbn": "978-1-4059-9405-7",
+    "title": "Harum ipsum delectus sunt",
+    "authors": [
+      "Veronica Löffler B.Sc."
+    ],
+    "publisher": "Mude",
+    "likes": 3.7,
+    "reviews": [
+      {
+        "author": "Grit Hesse-Biggen",
+        "text": "Quam occaecati temporibus ad saepe quae perferendis nulla. Sed magni ut qui vitae sequi deserunt."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Harum+ipsum+delectus+sunt"
+  },
+  {
+    "index": 27,
+    "isbn": "978-0-237-52605-4",
+    "title": "Quaerat fuga nesciunt rerum dolor deserunt",
+    "authors": [
+      "Dr. Roger Kobelt",
+      "Roberto Rudolph"
+    ],
+    "publisher": "Walter Pruschke GmbH & Co. OHG",
+    "likes": 2.4,
+    "reviews": [
+      {
+        "author": "Stanislav Bachmann",
+        "text": "Tempora animi ipsa illo incidunt."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Quaerat+fuga+nesciunt+rerum+dolor+deserunt"
+  },
+  {
+    "index": 28,
+    "isbn": "978-0-518-90864-7",
+    "title": "Distinctio ullam id eum inventore iure",
+    "authors": [
+      "Cilli Haering",
+      "Carina Reising-Stiebitz"
+    ],
+    "publisher": "Berger AG",
+    "likes": 9.7,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Distinctio+ullam+id+eum+inventore+iure"
+  },
+  {
+    "index": 29,
+    "isbn": "978-1-7361555-0-9",
+    "title": "Architecto recusandae perferendis laborum impedit",
+    "authors": [
+      "Jörn Liebelt B.A.",
+      "Nelly Buchholz"
+    ],
+    "publisher": "Beer",
+    "likes": 2.8,
+    "reviews": [
+      {
+        "author": "Sandy Beyer",
+        "text": "Odit qui fugiat.\nLaborum fugiat iure. Doloribus nemo sed iure. Ratione ea asperiores dolorem."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Architecto+recusandae+perferendis+laborum+impedit"
+  },
+  {
+    "index": 30,
+    "isbn": "978-1-01-558486-0",
+    "title": "Voluptates aut sapiente",
+    "authors": [
+      "Hermann Josef Gutknecht",
+      "Prof. Marliese Trupp B.Eng."
+    ],
+    "publisher": "Speer Baum KGaA",
+    "likes": 5.0,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Voluptates+aut+sapiente"
+  },
+  {
+    "index": 31,
+    "isbn": "978-1-5176-9202-5",
+    "title": "Necessitatibus nemo doloremque porro numquam facilis",
+    "authors": [
+      "Muharrem Hering"
+    ],
+    "publisher": "Ebert",
+    "likes": 6.9,
+    "reviews": [
+      {
+        "author": "Dr. Ottilie Weihmann",
+        "text": "Eius odio sit totam ullam impedit sequi quaerat. Unde alias suscipit."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Necessitatibus+nemo+doloremque+porro+numquam+facilis"
+  },
+  {
+    "index": 32,
+    "isbn": "978-1-84445-164-7",
+    "title": "Necessitatibus ab sunt",
+    "authors": [
+      "Isabel Wilmsen"
+    ],
+    "publisher": "Heß",
+    "likes": 4.2,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Necessitatibus+ab+sunt"
+  },
+  {
+    "index": 33,
+    "isbn": "978-0-85272-766-9",
+    "title": "Possimus ipsam similique unde perferendis",
+    "authors": [
+      "Johannes Kuhl"
+    ],
+    "publisher": "Hamann GmbH & Co. KGaA",
+    "likes": 8.2,
+    "reviews": [
+      {
+        "author": "Diedrich Ortmann",
+        "text": "Inventore magni amet eius. In natus quasi maxime."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Possimus+ipsam+similique+unde+perferendis"
+  },
+  {
+    "index": 34,
+    "isbn": "978-1-5098-0516-7",
+    "title": "Illo",
+    "authors": [
+      "Ing. Trudi Bruder MBA.",
+      "Frau Angelica Müller"
+    ],
+    "publisher": "Weller Weihmann Stiftung & Co. KGaA",
+    "likes": 0.2,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Illo"
+  },
+  {
+    "index": 35,
+    "isbn": "978-0-17-672490-0",
+    "title": "Dignissimos modi",
+    "authors": [
+      "Kamil Bähr",
+      "Reimar Ruppersberger"
+    ],
+    "publisher": "Trüb e.G.",
+    "likes": 3.4,
+    "reviews": [
+      {
+        "author": "Ramon Knappe",
+        "text": "Possimus debitis tempore velit porro asperiores. Laudantium omnis nemo quis. Maiores odit cum libero."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Dignissimos+modi"
+  },
+  {
+    "index": 36,
+    "isbn": "978-0-7952-1825-5",
+    "title": "Fugiat temporibus aperiam et officiis at error",
+    "authors": [
+      "Frank van der Dussen B.Eng.",
+      "Bodo Geißler"
+    ],
+    "publisher": "Weimer e.V.",
+    "likes": 9.6,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Fugiat+temporibus+aperiam+et+officiis+at+error"
+  },
+  {
+    "index": 37,
+    "isbn": "978-1-63990-009-1",
+    "title": "Molestiae libero sapiente debitis",
+    "authors": [
+      "Dietrich Wohlgemut MBA.",
+      "Dipl.-Ing. Hans-Uwe Thies"
+    ],
+    "publisher": "Preiß",
+    "likes": 9.3,
+    "reviews": [
+      {
+        "author": "Slavica Warmer",
+        "text": "Iusto nemo excepturi impedit consectetur.\nNisi eius doloremque vel. Perspiciatis quo voluptate."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Molestiae+libero+sapiente+debitis"
+  },
+  {
+    "index": 38,
+    "isbn": "978-1-77986-632-5",
+    "title": "Vel",
+    "authors": [
+      "Veli Christoph B.Eng."
+    ],
+    "publisher": "Patberg",
+    "likes": 8.8,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Vel"
+  },
+  {
+    "index": 39,
+    "isbn": "978-0-935072-75-4",
+    "title": "Fuga placeat",
+    "authors": [
+      "Thorben Hölzenbecher"
+    ],
+    "publisher": "Hölzenbecher",
+    "likes": 2.2,
+    "reviews": [
+      {
+        "author": "Ing. Hiltraud van der Dussen B.Eng.",
+        "text": "Modi deserunt ratione necessitatibus aliquam. Vitae omnis accusantium beatae soluta."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Fuga+placeat"
+  },
+  {
+    "index": 40,
+    "isbn": "978-0-7054-1482-1",
+    "title": "Facere quisquam",
+    "authors": [
+      "Marlene Kensy"
+    ],
+    "publisher": "Hande Gude GmbH & Co. KGaA",
+    "likes": 2.0,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Facere+quisquam"
+  },
+  {
+    "index": 41,
+    "isbn": "978-1-59188-402-6",
+    "title": "Nisi iusto",
+    "authors": [
+      "Käte Mosemann",
+      "Prof. Fabian Adolph B.A."
+    ],
+    "publisher": "Kitzmann GmbH",
+    "likes": 6.9,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Nisi+iusto"
+  },
+  {
+    "index": 42,
+    "isbn": "978-1-5157-3311-9",
+    "title": "Perspiciatis nostrum",
+    "authors": [
+      "Natalie Radisch",
+      "Cetin Rogner B.Sc."
+    ],
+    "publisher": "Söding",
+    "likes": 5.2,
+    "reviews": [
+      {
+        "author": "Othmar Hamann-Junk",
+        "text": "Cupiditate illo vero dolor dolor sit."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Perspiciatis+nostrum"
+  },
+  {
+    "index": 43,
+    "isbn": "978-0-8108-6569-3",
+    "title": "Repellendus nobis dolore quia tenetur",
+    "authors": [
+      "Rüdiger Eigenwillig B.A."
+    ],
+    "publisher": "Gröttner Fechner GmbH",
+    "likes": 1.7,
+    "reviews": [
+      {
+        "author": "Wencke Vollbrecht",
+        "text": "Asperiores temporibus quos aspernatur consequuntur dolorum veritatis. Atque mollitia culpa ut delectus ut."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Repellendus+nobis+dolore+quia+tenetur"
+  },
+  {
+    "index": 44,
+    "isbn": "978-1-301-42992-9",
+    "title": "Fugit velit",
+    "authors": [
+      "Evelin Ladeck"
+    ],
+    "publisher": "Ullrich",
+    "likes": 4.5,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Fugit+velit"
+  },
+  {
+    "index": 45,
+    "isbn": "978-1-81753-124-6",
+    "title": "Fugiat repellendus eum",
+    "authors": [
+      "Kaspar Henck"
+    ],
+    "publisher": "Faust OHG mbH",
+    "likes": 1.6,
+    "reviews": [
+      {
+        "author": "Hans Rogner",
+        "text": "Adipisci culpa praesentium numquam sequi. Molestias molestias ratione nulla."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Fugiat+repellendus+eum"
+  },
+  {
+    "index": 46,
+    "isbn": "978-0-8153-4130-7",
+    "title": "Debitis iste minima doloribus",
+    "authors": [
+      "Prof. Czeslaw Söding B.Eng."
+    ],
+    "publisher": "Wirth GmbH",
+    "likes": 0.6,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Debitis+iste+minima+doloribus"
+  },
+  {
+    "index": 47,
+    "isbn": "978-0-665-36512-6",
+    "title": "Dolorum ab",
+    "authors": [
+      "Gerhard Rosemann B.Sc."
+    ],
+    "publisher": "Jäntsch",
+    "likes": 8.3,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Dolorum+ab"
+  },
+  {
+    "index": 48,
+    "isbn": "978-0-396-64167-4",
+    "title": "Praesentium ullam",
+    "authors": [
+      "Bruni Meyer"
+    ],
+    "publisher": "Ehlert",
+    "likes": 3.2,
+    "reviews": [
+      {
+        "author": "Hans-Wilhelm Gnatz",
+        "text": "Cupiditate fuga perferendis necessitatibus neque. Pariatur veritatis voluptatibus distinctio eligendi adipisci."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Praesentium+ullam"
+  },
+  {
+    "index": 49,
+    "isbn": "978-0-698-88122-8",
+    "title": "Consectetur quia",
+    "authors": [
+      "Anika Klemt-Schmiedt",
+      "Tomasz Gehringer"
+    ],
+    "publisher": "Gutknecht Hamann KG",
+    "likes": 1.3,
+    "reviews": [
+      {
+        "author": "Freddy Pärtzelt",
+        "text": "Aspernatur nisi et. Quo totam magni recusandae magni a exercitationem fugit. Unde ipsa non eligendi eos dicta soluta."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Consectetur+quia"
+  },
+  {
+    "index": 50,
+    "isbn": "978-1-57729-718-5",
+    "title": "Quidem atque",
+    "authors": [
+      "Univ.Prof. Kathy Hertrampf",
+      "Leon Haase-Säuberlich"
+    ],
+    "publisher": "Gunpf Dussen van KG",
+    "likes": 6.5,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Quidem+atque"
+  },
+  {
+    "index": 51,
+    "isbn": "978-1-924400-42-8",
+    "title": "Laborum rerum corporis",
+    "authors": [
+      "Fredi Hübel"
+    ],
+    "publisher": "Franke GmbH & Co. KGaA",
+    "likes": 9.3,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Laborum+rerum+corporis"
+  },
+  {
+    "index": 52,
+    "isbn": "978-0-289-54781-6",
+    "title": "Eius",
+    "authors": [
+      "Univ.Prof. Gönül Eberth B.A."
+    ],
+    "publisher": "Boucsein GmbH & Co. OHG",
+    "likes": 2.7,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Eius"
+  },
+  {
+    "index": 53,
+    "isbn": "978-1-362-87175-0",
+    "title": "Cumque dolorem",
+    "authors": [
+      "Leni Thies B.Sc."
+    ],
+    "publisher": "Koch Klapp e.V.",
+    "likes": 5.0,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Cumque+dolorem"
+  },
+  {
+    "index": 54,
+    "isbn": "978-1-928185-49-9",
+    "title": "Tenetur quae dolorem harum inventore eum quis quo",
+    "authors": [
+      "Adeline Jungfer",
+      "Nuray Dowerg"
+    ],
+    "publisher": "Weimer Kusch GmbH & Co. OHG",
+    "likes": 9.9,
+    "reviews": [
+      {
+        "author": "Pauline Gieß",
+        "text": "Quos eaque culpa a earum natus. Quod id amet vel laboriosam laudantium suscipit."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Tenetur+quae+dolorem+harum+inventore+eum+quis+quo"
+  },
+  {
+    "index": 55,
+    "isbn": "978-0-7955-0753-3",
+    "title": "Impedit ab accusamus possimus aspernatur tempore",
+    "authors": [
+      "Prof. Valeri Lachmann B.A."
+    ],
+    "publisher": "Löwer",
+    "likes": 6.7,
+    "reviews": [
+      {
+        "author": "Pamela Schmidt",
+        "text": "Error cumque aliquid magni occaecati. Vel magnam eaque dolorem. Debitis sapiente maxime deleniti sed iusto reiciendis."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Impedit+ab+accusamus+possimus+aspernatur+tempore"
+  },
+  {
+    "index": 56,
+    "isbn": "978-0-9660497-8-7",
+    "title": "Inventore illo sint odit repellat",
+    "authors": [
+      "Silva Lange"
+    ],
+    "publisher": "Haase KGaA",
+    "likes": 2.1,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Inventore+illo+sint+odit+repellat"
+  },
+  {
+    "index": 57,
+    "isbn": "978-1-71037-490-2",
+    "title": "Veniam illum dicta voluptatibus iusto consequuntur voluptatibus",
+    "authors": [
+      "Norbert Liebelt"
+    ],
+    "publisher": "Rörricht",
+    "likes": 4.2,
+    "reviews": [
+      {
+        "author": "Renato Briemer B.A.",
+        "text": "A asperiores sequi officiis enim. Veritatis quisquam quidem pariatur quas ullam architecto."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Veniam+illum+dicta+voluptatibus+iusto+consequuntur+voluptatibus"
+  },
+  {
+    "index": 58,
+    "isbn": "978-0-943877-66-2",
+    "title": "Eligendi ducimus dolorum",
+    "authors": [
+      "Martina Scholtz",
+      "Virginia Börner"
+    ],
+    "publisher": "Kobelt GmbH",
+    "likes": 9.8,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Eligendi+ducimus+dolorum"
+  },
+  {
+    "index": 59,
+    "isbn": "978-0-420-67951-2",
+    "title": "Vitae deserunt dolore velit nisi",
+    "authors": [
+      "Claus Schulz"
+    ],
+    "publisher": "Huhn Ritter GmbH & Co. KG",
+    "likes": 7.6,
+    "reviews": [
+      {
+        "author": "Karl Heinz Schenk B.Eng.",
+        "text": "Dicta laborum commodi omnis. Assumenda tenetur asperiores. Laborum placeat voluptate dolores."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Vitae+deserunt+dolore+velit+nisi"
+  },
+  {
+    "index": 60,
+    "isbn": "978-0-9590143-5-8",
+    "title": "Vitae distinctio",
+    "authors": [
+      "Sylwia Rosenow",
+      "Hans-Michael Gute"
+    ],
+    "publisher": "Jessel AG",
+    "likes": 9.1,
+    "reviews": [
+      {
+        "author": "Reni Striebitz-Atzler",
+        "text": "Dignissimos commodi quibusdam occaecati. Aspernatur aliquam animi."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Vitae+distinctio"
+  },
+  {
+    "index": 61,
+    "isbn": "978-1-05-869684-1",
+    "title": "Adipisci sunt ratione quo ipsa nam",
+    "authors": [
+      "Univ.Prof. Elvira Anders"
+    ],
+    "publisher": "Ruppert",
+    "likes": 3.0,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Adipisci+sunt+ratione+quo+ipsa+nam"
+  },
+  {
+    "index": 62,
+    "isbn": "978-1-891950-59-9",
+    "title": "Eligendi minima neque ab repellat",
+    "authors": [
+      "Ilona Gertz"
+    ],
+    "publisher": "Bohnbach AG",
+    "likes": 8.8,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Eligendi+minima+neque+ab+repellat"
+  },
+  {
+    "index": 63,
+    "isbn": "978-0-00-636159-6",
+    "title": "Provident ut illum tempora",
+    "authors": [
+      "Almuth Seip",
+      "Hiltraud Seifert B.A."
+    ],
+    "publisher": "Hofmann",
+    "likes": 0.2,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Provident+ut+illum+tempora"
+  },
+  {
+    "index": 64,
+    "isbn": "978-1-71679-365-3",
+    "title": "Accusamus",
+    "authors": [
+      "Margarita Kreusel-Kallert",
+      "Annelore Hänel"
+    ],
+    "publisher": "Zobel KGaA",
+    "likes": 0.9,
+    "reviews": [
+      {
+        "author": "Ing. Iwan Speer B.Sc.",
+        "text": "Natus temporibus cumque consectetur magnam rem."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Accusamus"
+  },
+  {
+    "index": 65,
+    "isbn": "978-1-55477-432-6",
+    "title": "Non delectus culpa eligendi quasi",
+    "authors": [
+      "Lilli Metz"
+    ],
+    "publisher": "Kaul Scheel e.G.",
+    "likes": 2.2,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Non+delectus+culpa+eligendi+quasi"
+  },
+  {
+    "index": 66,
+    "isbn": "978-0-920619-36-0",
+    "title": "Esse facere nostrum minima fuga magnam ab",
+    "authors": [
+      "Liesa Loos B.A."
+    ],
+    "publisher": "Beer AG & Co. OHG",
+    "likes": 8.3,
+    "reviews": [
+      {
+        "author": "Ralf Sölzer B.A.",
+        "text": "Sunt molestiae hic natus impedit qui. Laboriosam aspernatur in assumenda incidunt. Cumque voluptates voluptatem."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Esse+facere+nostrum+minima+fuga+magnam+ab"
+  },
+  {
+    "index": 67,
+    "isbn": "978-0-273-06216-5",
+    "title": "Nemo animi autem",
+    "authors": [
+      "Linda Klotz-Hettner",
+      "Karoline Rörricht MBA."
+    ],
+    "publisher": "Becker",
+    "likes": 9.4,
+    "reviews": [
+      {
+        "author": "Ing. Anatolij Henck",
+        "text": "Eos iusto optio eos. Consectetur reprehenderit sapiente iure inventore.\nLaboriosam sapiente harum consectetur iusto."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Nemo+animi+autem"
+  },
+  {
+    "index": 68,
+    "isbn": "978-1-291-99558-9",
+    "title": "Necessitatibus fugit",
+    "authors": [
+      "Univ.Prof. Gertrud Seifert B.Sc."
+    ],
+    "publisher": "Franke GmbH",
+    "likes": 0.3,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Necessitatibus+fugit"
+  },
+  {
+    "index": 69,
+    "isbn": "978-0-19-574639-6",
+    "title": "Modi enim aspernatur dolores occaecati",
+    "authors": [
+      "Anja Dobes",
+      "Leopold Mende"
+    ],
+    "publisher": "Hiller e.G.",
+    "likes": 1.6,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Modi+enim+aspernatur+dolores+occaecati"
+  },
+  {
+    "index": 70,
+    "isbn": "978-0-18-231117-0",
+    "title": "Quod quo",
+    "authors": [
+      "Klara Kobelt"
+    ],
+    "publisher": "Ritter KG",
+    "likes": 2.1,
+    "reviews": [
+      {
+        "author": "Alfonso Hauffer",
+        "text": "Quasi voluptate voluptas velit eius. Possimus pariatur dolores quis."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Quod+quo"
+  },
+  {
+    "index": 71,
+    "isbn": "978-0-05-238895-0",
+    "title": "Saepe quaerat exercitationem",
+    "authors": [
+      "Inga Trub",
+      "Sedat Vollbrecht B.Sc."
+    ],
+    "publisher": "Täsche KG",
+    "likes": 2.8,
+    "reviews": [
+      {
+        "author": "Herr Ekkehart Hahn",
+        "text": "Quae temporibus quia unde. Aut nam exercitationem esse eligendi molestias."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Saepe+quaerat+exercitationem"
+  },
+  {
+    "index": 72,
+    "isbn": "978-1-80283-353-9",
+    "title": "Aliquam non commodi",
+    "authors": [
+      "Aynur Harloff"
+    ],
+    "publisher": "Weller",
+    "likes": 1.7,
+    "reviews": [
+      {
+        "author": "Sven Schlosser",
+        "text": "Facilis labore vel dolorem. Eveniet pariatur labore molestias."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Aliquam+non+commodi"
+  },
+  {
+    "index": 73,
+    "isbn": "978-1-4527-5141-2",
+    "title": "Voluptatum velit facere",
+    "authors": [
+      "Univ.Prof. Arnulf Seip MBA."
+    ],
+    "publisher": "Grein Groth Kramer GmbH & Co. KG",
+    "likes": 3.9,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Voluptatum+velit+facere"
+  },
+  {
+    "index": 74,
+    "isbn": "978-0-7910-2185-9",
+    "title": "Non officia corrupti illo voluptates",
+    "authors": [
+      "Ruth Reising"
+    ],
+    "publisher": "Wernecke Kitzmann AG",
+    "likes": 4.5,
+    "reviews": [
+      {
+        "author": "Henri Harloff",
+        "text": "Odio animi labore aspernatur tempora voluptatem nulla. Et nam iure similique quo."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Non+officia+corrupti+illo+voluptates"
+  },
+  {
+    "index": 75,
+    "isbn": "978-1-4578-3525-4",
+    "title": "Cupiditate voluptas consequatur sapiente dignissimos libero",
+    "authors": [
+      "Egbert Bloch B.Eng."
+    ],
+    "publisher": "Tröst KG",
+    "likes": 5.2,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Cupiditate+voluptas+consequatur+sapiente+dignissimos+libero"
+  },
+  {
+    "index": 76,
+    "isbn": "978-1-83619-765-2",
+    "title": "Perferendis ab delectus provident",
+    "authors": [
+      "Marianne Wagner MBA."
+    ],
+    "publisher": "Franke",
+    "likes": 9.3,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Perferendis+ab+delectus+provident"
+  },
+  {
+    "index": 77,
+    "isbn": "978-1-58660-209-3",
+    "title": "Odio culpa ipsam eaque iusto",
+    "authors": [
+      "Meinolf Spieß-Fiebig",
+      "Marian Käster"
+    ],
+    "publisher": "Gieß OHG mbH",
+    "likes": 3.9,
+    "reviews": [
+      {
+        "author": "Walentina Henschel-Gröttner",
+        "text": "Quis blanditiis voluptatum veritatis commodi vitae. Ut minima esse sequi illum maiores."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Odio+culpa+ipsam+eaque+iusto"
+  },
+  {
+    "index": 78,
+    "isbn": "978-0-662-27431-5",
+    "title": "Consectetur dolores harum doloremque deserunt consequatur",
+    "authors": [
+      "Univ.Prof. Anatoli Jessel B.Eng."
+    ],
+    "publisher": "Drub",
+    "likes": 9.6,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Consectetur+dolores+harum+doloremque+deserunt+consequatur"
+  },
+  {
+    "index": 79,
+    "isbn": "978-0-13-827288-3",
+    "title": "Eius repellendus error",
+    "authors": [
+      "Nikolaos Junck B.A."
+    ],
+    "publisher": "Heß Klotz KGaA",
+    "likes": 7.7,
+    "reviews": [
+      {
+        "author": "Vincent Bolnbach",
+        "text": "Eius et consectetur nemo quas error possimus. Soluta explicabo iure cum ratione. Rerum dolorem ullam."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Eius+repellendus+error"
+  },
+  {
+    "index": 80,
+    "isbn": "978-1-68743-959-8",
+    "title": "Necessitatibus voluptate",
+    "authors": [
+      "Ivana Hamann B.Sc."
+    ],
+    "publisher": "Biggen AG",
+    "likes": 6.4,
+    "reviews": [
+      {
+        "author": "Raimund Seip",
+        "text": "Nemo quam a quasi."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Necessitatibus+voluptate"
+  },
+  {
+    "index": 81,
+    "isbn": "978-1-211-82636-8",
+    "title": "Quaerat dolore qui",
+    "authors": [
+      "Franz Josef Ditschlerin MBA."
+    ],
+    "publisher": "Liebelt e.G.",
+    "likes": 7.1,
+    "reviews": [
+      {
+        "author": "Prof. Jasmin Spieß",
+        "text": "Pariatur excepturi et error nostrum.\nTempora reprehenderit ipsa eos. Pariatur asperiores a recusandae pariatur."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Quaerat+dolore+qui"
+  },
+  {
+    "index": 82,
+    "isbn": "978-0-490-60276-2",
+    "title": "Reprehenderit suscipit",
+    "authors": [
+      "Gottlieb Scholl"
+    ],
+    "publisher": "Nohlmans Cichorius Stiftung & Co. KGaA",
+    "likes": 2.2,
+    "reviews": [
+      {
+        "author": "Univ.Prof. Martina Atzler B.Eng.",
+        "text": "Dolorem nemo iste ea commodi. Ipsam consequuntur natus cumque."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Reprehenderit+suscipit"
+  },
+  {
+    "index": 83,
+    "isbn": "978-1-69731-363-5",
+    "title": "Voluptatum magnam",
+    "authors": [
+      "Lena Mälzer"
+    ],
+    "publisher": "Mitschke",
+    "likes": 0.3,
+    "reviews": [
+      {
+        "author": "Hagen Seidel",
+        "text": "Consequatur ducimus ex illo soluta excepturi provident neque. Natus et officiis enim modi ducimus."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Voluptatum+magnam"
+  },
+  {
+    "index": 84,
+    "isbn": "978-1-301-00067-8",
+    "title": "Fugiat ad dolores",
+    "authors": [
+      "Friedrich-Karl Binner-Patberg",
+      "Kristiane Juncken MBA."
+    ],
+    "publisher": "Linke Hövel GmbH & Co. OHG",
+    "likes": 7.1,
+    "reviews": [
+      {
+        "author": "Joachim Oderwald",
+        "text": "Vitae distinctio impedit nostrum deleniti quas. Expedita autem optio veniam suscipit deleniti mollitia."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Fugiat+ad+dolores"
+  },
+  {
+    "index": 85,
+    "isbn": "978-1-912276-93-6",
+    "title": "Nostrum excepturi non",
+    "authors": [
+      "Adelgunde Thies"
+    ],
+    "publisher": "Hofmann GmbH",
+    "likes": 1.8,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Nostrum+excepturi+non"
+  },
+  {
+    "index": 86,
+    "isbn": "978-1-281-27867-8",
+    "title": "Sequi voluptates",
+    "authors": [
+      "Antonios Hornich",
+      "Rafael Bachmann"
+    ],
+    "publisher": "Graf",
+    "likes": 3.1,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Sequi+voluptates"
+  },
+  {
+    "index": 87,
+    "isbn": "978-0-7206-1765-8",
+    "title": "Vel culpa ea",
+    "authors": [
+      "Tillmann Becker",
+      "Dr. Brunhild Dowerg B.A."
+    ],
+    "publisher": "Bohlander AG",
+    "likes": 6.5,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Vel+culpa+ea"
+  },
+  {
+    "index": 88,
+    "isbn": "978-0-8062-0187-0",
+    "title": "Aspernatur illo illo",
+    "authors": [
+      "Peter-Michael Atzler",
+      "Yvette Söding-Reinhardt"
+    ],
+    "publisher": "Schüler",
+    "likes": 7.3,
+    "reviews": [
+      {
+        "author": "Jacqueline Henck B.Sc.",
+        "text": "Earum officia omnis commodi.\nEius nulla hic ratione in. Corrupti esse nam delectus alias."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Aspernatur+illo+illo"
+  },
+  {
+    "index": 89,
+    "isbn": "978-1-368-97761-6",
+    "title": "Provident maiores esse qui ratione eligendi fugit",
+    "authors": [
+      "Sylvio Paffrath",
+      "Reinhold Zimmer-Scholz"
+    ],
+    "publisher": "Höfig KG",
+    "likes": 0.1,
+    "reviews": [
+      {
+        "author": "Zoltan Holzapfel B.Sc.",
+        "text": "Praesentium placeat ut architecto voluptatem atque quaerat. Laudantium nulla officiis placeat alias."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Provident+maiores+esse+qui+ratione+eligendi+fugit"
+  },
+  {
+    "index": 90,
+    "isbn": "978-0-86645-677-7",
+    "title": "Sapiente vitae",
+    "authors": [
+      "Emmerich Rosenow-Bolander"
+    ],
+    "publisher": "Weinhage Löffler GmbH & Co. OHG",
+    "likes": 6.6,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Sapiente+vitae"
+  },
+  {
+    "index": 91,
+    "isbn": "978-1-254-56547-7",
+    "title": "Nisi ipsum aperiam vitae error sunt eius",
+    "authors": [
+      "Sigismund Geisel",
+      "Ismail Ortmann"
+    ],
+    "publisher": "Sölzer",
+    "likes": 7.2,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Nisi+ipsum+aperiam+vitae+error+sunt+eius"
+  },
+  {
+    "index": 92,
+    "isbn": "978-0-379-45401-7",
+    "title": "Quo voluptas alias quod in quisquam",
+    "authors": [
+      "Univ.Prof. Angelo Wernecke B.Eng."
+    ],
+    "publisher": "Caspar AG & Co. KG",
+    "likes": 4.2,
+    "reviews": [
+      {
+        "author": "Kemal Holzapfel B.A.",
+        "text": "Laboriosam laudantium quos possimus nostrum cumque qui. Voluptas aspernatur quisquam eaque. Dolore provident vero."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Quo+voluptas+alias+quod+in+quisquam"
+  },
+  {
+    "index": 93,
+    "isbn": "978-1-06-397412-5",
+    "title": "Ea iste temporibus enim",
+    "authors": [
+      "Dipl.-Ing. Margrit Gerlach B.Sc.",
+      "Margret Trupp"
+    ],
+    "publisher": "Fritsch Mühle GmbH & Co. KG",
+    "likes": 5.4,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Ea+iste+temporibus+enim"
+  },
+  {
+    "index": 94,
+    "isbn": "978-1-207-90986-0",
+    "title": "Illo",
+    "authors": [
+      "Stjepan Schuchhardt"
+    ],
+    "publisher": "Benthin Girschner AG & Co. OHG",
+    "likes": 8.1,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Illo"
+  },
+  {
+    "index": 95,
+    "isbn": "978-1-80045-341-8",
+    "title": "Esse quaerat fuga incidunt",
+    "authors": [
+      "Heinz-Günther Schuchhardt",
+      "Hans Josef van der Dussen-Gehringer"
+    ],
+    "publisher": "Hauffer",
+    "likes": 6.8,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Esse+quaerat+fuga+incidunt"
+  },
+  {
+    "index": 96,
+    "isbn": "978-0-16-672794-2",
+    "title": "Deleniti eum consectetur",
+    "authors": [
+      "Amir Reising-Klemt"
+    ],
+    "publisher": "Warmer AG & Co. OHG",
+    "likes": 0.9,
+    "reviews": [
+      {
+        "author": "Dr. Anne-Rose Freudenberger B.Sc.",
+        "text": "Nisi a veritatis quis tempore. Aliquid aspernatur maiores debitis."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Deleniti+eum+consectetur"
+  },
+  {
+    "index": 97,
+    "isbn": "978-0-7019-2036-4",
+    "title": "Velit quis",
+    "authors": [
+      "Carlo Schottin B.Sc.",
+      "Antonino Ullmann"
+    ],
+    "publisher": "Pechel Kaul GmbH & Co. KGaA",
+    "likes": 4.3,
+    "reviews": [
+      {
+        "author": "Gönül Drub B.Eng.",
+        "text": "Possimus autem libero. Pariatur totam sed perspiciatis ea excepturi eveniet repudiandae."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Velit+quis"
+  },
+  {
+    "index": 98,
+    "isbn": "978-0-572-77935-1",
+    "title": "Quia asperiores",
+    "authors": [
+      "Markus Naser"
+    ],
+    "publisher": "Schleich Benthin AG & Co. KGaA",
+    "likes": 5.2,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Quia+asperiores"
+  },
+  {
+    "index": 99,
+    "isbn": "978-1-310-68003-8",
+    "title": "Possimus laudantium amet",
+    "authors": [
+      "Michael Binner-Weller",
+      "Christin Gieß-Hamann"
+    ],
+    "publisher": "Conradi AG & Co. KGaA",
+    "likes": 5.5,
+    "reviews": [
+      {
+        "author": "Heinz Dieter Schäfer",
+        "text": "Placeat id nostrum molestiae excepturi porro."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Possimus+laudantium+amet"
+  },
+  {
+    "index": 100,
+    "isbn": "978-0-527-36470-0",
+    "title": "Aperiam dignissimos aspernatur similique",
+    "authors": [
+      "Ing. Anastasia Rudolph"
+    ],
+    "publisher": "Paffrath",
+    "likes": 1.0,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Aperiam+dignissimos+aspernatur+similique"
+  },
+  {
+    "index": 101,
+    "isbn": "978-0-304-53303-9",
+    "title": "Quaerat dignissimos labore perspiciatis",
+    "authors": [
+      "Helene Renner",
+      "Stanislaw Heinrich"
+    ],
+    "publisher": "Scholz",
+    "likes": 6.8,
+    "reviews": [
+      {
+        "author": "Bert Schinke",
+        "text": "Illo distinctio voluptatem nostrum. Facere modi quis neque sapiente."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Quaerat+dignissimos+labore+perspiciatis"
+  },
+  {
+    "index": 102,
+    "isbn": "978-1-62509-787-3",
+    "title": "Officia quam odio repudiandae id",
+    "authors": [
+      "Inge Jessel"
+    ],
+    "publisher": "Koch II Gute KG",
+    "likes": 3.0,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Officia+quam+odio+repudiandae+id"
+  },
+  {
+    "index": 103,
+    "isbn": "978-0-8208-0381-4",
+    "title": "Exercitationem sint ipsa molestias inventore atque",
+    "authors": [
+      "Loretta Rudolph-Barkholz",
+      "Juri Kuhl"
+    ],
+    "publisher": "Carsten",
+    "likes": 4.5,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Exercitationem+sint+ipsa+molestias+inventore+atque"
+  },
+  {
+    "index": 104,
+    "isbn": "978-1-5082-4702-9",
+    "title": "Sunt at veniam dolorum id dolorum repudiandae laudantium",
+    "authors": [
+      "Miguel Wesack-Drubin"
+    ],
+    "publisher": "Franke GmbH",
+    "likes": 3.8,
+    "reviews": [
+      {
+        "author": "Ing. Traugott Rosenow",
+        "text": "Vero ipsam quis doloremque beatae. Earum veniam ab impedit."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Sunt+at+veniam+dolorum+id+dolorum+repudiandae+laudantium"
+  },
+  {
+    "index": 105,
+    "isbn": "978-0-698-74196-6",
+    "title": "Rem consequuntur doloremque corrupti rerum",
+    "authors": [
+      "Leonhard Winkler",
+      "Patricia van der Dussen"
+    ],
+    "publisher": "Möchlichen OHG mbH",
+    "likes": 6.6,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Rem+consequuntur+doloremque+corrupti+rerum"
+  },
+  {
+    "index": 106,
+    "isbn": "978-1-79072-907-4",
+    "title": "Labore asperiores",
+    "authors": [
+      "Univ.Prof. Stephanie Scholtz",
+      "Wigbert Reuter"
+    ],
+    "publisher": "Steckel",
+    "likes": 10.0,
+    "reviews": [
+      {
+        "author": "Betti Aumann",
+        "text": "Repudiandae mollitia ex culpa."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Labore+asperiores"
+  },
+  {
+    "index": 107,
+    "isbn": "978-1-336-81317-5",
+    "title": "Porro sunt quisquam vero pariatur error ipsam",
+    "authors": [
+      "Lilo Beyer",
+      "Julie Hübel B.A."
+    ],
+    "publisher": "Blümel",
+    "likes": 8.9,
+    "reviews": [
+      {
+        "author": "Prof. Margaretha Köhler MBA.",
+        "text": "Vel magni nihil deserunt nemo ipsa totam. Eveniet dignissimos veniam quae voluptatem dignissimos iste voluptatibus."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Porro+sunt+quisquam+vero+pariatur+error+ipsam"
+  },
+  {
+    "index": 108,
+    "isbn": "978-1-01-459201-9",
+    "title": "Aperiam voluptas unde sapiente odio",
+    "authors": [
+      "Dr. Nuri Martin B.Eng."
+    ],
+    "publisher": "Johann Kranz GbR",
+    "likes": 7.4,
+    "reviews": [
+      {
+        "author": "Wendelin Franke",
+        "text": "Repellendus pariatur odio sint mollitia hic. Numquam dolor doloribus velit."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Aperiam+voluptas+unde+sapiente+odio"
+  },
+  {
+    "index": 109,
+    "isbn": "978-1-4592-1550-4",
+    "title": "Impedit ratione alias quidem",
+    "authors": [
+      "Liesbeth Trub-Langern",
+      "Janine Schinke B.Eng."
+    ],
+    "publisher": "Beier GmbH & Co. KG",
+    "likes": 8.3,
+    "reviews": [
+      {
+        "author": "Ing. Alexandre Junitz B.A.",
+        "text": "Officia officia incidunt esse. Placeat quis quae magni in neque. Debitis a laborum facere."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Impedit+ratione+alias+quidem"
+  },
+  {
+    "index": 110,
+    "isbn": "978-0-11-323400-4",
+    "title": "Sunt aut",
+    "authors": [
+      "Hansgeorg Pergande",
+      "Herr Nikola Täsche"
+    ],
+    "publisher": "Mude Neuschäfer GmbH",
+    "likes": 9.9,
+    "reviews": [
+      {
+        "author": "Ayten Trommler",
+        "text": "Nemo iusto vitae soluta laborum."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Sunt+aut"
+  },
+  {
+    "index": 111,
+    "isbn": "978-1-5372-5020-5",
+    "title": "Rem excepturi distinctio libero",
+    "authors": [
+      "Abdul Kostolzin",
+      "Verena Beckmann"
+    ],
+    "publisher": "Hornig Fechner e.G.",
+    "likes": 2.6,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Rem+excepturi+distinctio+libero"
+  },
+  {
+    "index": 112,
+    "isbn": "978-0-19-690462-7",
+    "title": "Tempore quaerat",
+    "authors": [
+      "Klaus-Günter Löwer-Weitzel"
+    ],
+    "publisher": "Ruppersberger",
+    "likes": 4.8,
+    "reviews": [
+      {
+        "author": "Theodora Gröttner",
+        "text": "Tempore dolorem nulla nesciunt eum ratione nobis.\nMinus ut deserunt qui. Quam odit aliquam quos iure vel facilis."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Tempore+quaerat"
+  },
+  {
+    "index": 113,
+    "isbn": "978-1-225-55016-7",
+    "title": "Quod mollitia sint mollitia",
+    "authors": [
+      "Dipl.-Ing. Mikhail Möchlichen B.Eng.",
+      "Univ.Prof. Hans-Joachim Austermühle B.Eng."
+    ],
+    "publisher": "Gehringer",
+    "likes": 6.6,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Quod+mollitia+sint+mollitia"
+  },
+  {
+    "index": 114,
+    "isbn": "978-1-02-092722-5",
+    "title": "Natus ipsam distinctio atque ipsam culpa",
+    "authors": [
+      "Prof. Songül Stolze B.Eng.",
+      "Gunar Wulff-Sölzer"
+    ],
+    "publisher": "Wilms OHG mbH",
+    "likes": 8.3,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Natus+ipsam+distinctio+atque+ipsam+culpa"
+  },
+  {
+    "index": 115,
+    "isbn": "978-0-453-39814-5",
+    "title": "Sequi voluptatibus veniam delectus expedita quaerat",
+    "authors": [
+      "Dipl.-Ing. Caroline Süßebier"
+    ],
+    "publisher": "Mangold GmbH & Co. KG",
+    "likes": 3.6,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Sequi+voluptatibus+veniam+delectus+expedita+quaerat"
+  },
+  {
+    "index": 116,
+    "isbn": "978-0-7087-7184-6",
+    "title": "Accusantium esse aperiam quis ipsa numquam",
+    "authors": [
+      "Annie Bolnbach",
+      "Dipl.-Ing. Danielle Radisch B.Eng."
+    ],
+    "publisher": "Klemm GbR",
+    "likes": 7.3,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Accusantium+esse+aperiam+quis+ipsa+numquam"
+  },
+  {
+    "index": 117,
+    "isbn": "978-0-641-21074-7",
+    "title": "Sapiente mollitia laboriosam",
+    "authors": [
+      "Katalin Meyer"
+    ],
+    "publisher": "Kroker Koch II GmbH & Co. OHG",
+    "likes": 8.3,
+    "reviews": [
+      {
+        "author": "Jacqueline Ebert MBA.",
+        "text": "Aliquid sint natus incidunt delectus blanditiis reiciendis. Sed provident sapiente nostrum maiores similique."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Sapiente+mollitia+laboriosam"
+  },
+  {
+    "index": 118,
+    "isbn": "978-0-533-55761-5",
+    "title": "Quia nobis aliquid",
+    "authors": [
+      "Hinrich Renner-Kühnert",
+      "Zlatko Heydrich-Margraf"
+    ],
+    "publisher": "Kostolzin GmbH",
+    "likes": 1.7,
+    "reviews": [
+      {
+        "author": "Hermann Josef Schinke-Jopich",
+        "text": "Quia nam expedita delectus magni. Sequi quam sint dolor qui."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Quia+nobis+aliquid"
+  },
+  {
+    "index": 119,
+    "isbn": "978-0-521-46167-2",
+    "title": "Sit",
+    "authors": [
+      "Bozena Bärer"
+    ],
+    "publisher": "Döhn",
+    "likes": 8.8,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Sit"
+  },
+  {
+    "index": 120,
+    "isbn": "978-0-03-427200-0",
+    "title": "Tempore cum",
+    "authors": [
+      "Stefania Sorgatz"
+    ],
+    "publisher": "Weimer",
+    "likes": 4.8,
+    "reviews": [
+      {
+        "author": "Fadime Döhn B.Sc.",
+        "text": "Nobis quisquam eveniet sunt veritatis necessitatibus.\nEaque nostrum fugit dolores. Quisquam nulla deserunt vel."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Tempore+cum"
+  },
+  {
+    "index": 121,
+    "isbn": "978-0-916714-36-9",
+    "title": "Doloremque nihil",
+    "authors": [
+      "Dr. Liesa Döring B.Sc."
+    ],
+    "publisher": "Cichorius Gröttner AG",
+    "likes": 0.9,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Doloremque+nihil"
+  },
+  {
+    "index": 122,
+    "isbn": "978-1-02-850285-1",
+    "title": "Vitae numquam blanditiis",
+    "authors": [
+      "Annaliese Hornig"
+    ],
+    "publisher": "Girschner Junitz AG",
+    "likes": 4.9,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Vitae+numquam+blanditiis"
+  },
+  {
+    "index": 123,
+    "isbn": "978-0-552-19669-7",
+    "title": "Quia modi molestiae aperiam ut",
+    "authors": [
+      "Frau Cornelia Beyer",
+      "Lidia Weihmann-Thies"
+    ],
+    "publisher": "Lange AG",
+    "likes": 8.3,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Quia+modi+molestiae+aperiam+ut"
+  },
+  {
+    "index": 124,
+    "isbn": "978-1-341-49136-8",
+    "title": "Saepe",
+    "authors": [
+      "Univ.Prof. Bettina Wiek B.A.",
+      "Edeltrud Margraf B.Sc."
+    ],
+    "publisher": "Wilmsen",
+    "likes": 1.8,
+    "reviews": [
+      {
+        "author": "Claudia Metz",
+        "text": "Maxime accusantium qui dolorum delectus sequi architecto. Repudiandae enim ad blanditiis delectus."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Saepe"
+  },
+  {
+    "index": 125,
+    "isbn": "978-1-63439-259-4",
+    "title": "Ipsam fugiat accusamus sequi quam",
+    "authors": [
+      "Klaus-Peter Haering"
+    ],
+    "publisher": "Steinberg Döring AG",
+    "likes": 4.6,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Ipsam+fugiat+accusamus+sequi+quam"
+  },
+  {
+    "index": 126,
+    "isbn": "978-0-616-78905-6",
+    "title": "Assumenda aperiam",
+    "authors": [
+      "Peggy Hölzenbecher",
+      "Ing. Resi Werner B.A."
+    ],
+    "publisher": "Gerlach Schinke e.G.",
+    "likes": 7.0,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Assumenda+aperiam"
+  },
+  {
+    "index": 127,
+    "isbn": "978-0-928558-46-3",
+    "title": "Mollitia aspernatur amet temporibus",
+    "authors": [
+      "Lydia Schenk"
+    ],
+    "publisher": "Meyer GmbH & Co. KGaA",
+    "likes": 8.8,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Mollitia+aspernatur+amet+temporibus"
+  },
+  {
+    "index": 128,
+    "isbn": "978-1-78068-796-4",
+    "title": "Quam minima",
+    "authors": [
+      "Senol Vogt",
+      "Nadeschda Pergande-Hövel"
+    ],
+    "publisher": "Herrmann Schmidt GbR",
+    "likes": 4.1,
+    "reviews": [
+      {
+        "author": "Univ.Prof. Hellmut Jäkel B.A.",
+        "text": "Ipsam tenetur nesciunt maxime consequuntur accusamus. Similique quibusdam esse libero itaque corporis."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Quam+minima"
+  },
+  {
+    "index": 129,
+    "isbn": "978-0-7297-7936-4",
+    "title": "Minima quos dolorum",
+    "authors": [
+      "Frederik Schüler"
+    ],
+    "publisher": "Schleich",
+    "likes": 5.7,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Minima+quos+dolorum"
+  },
+  {
+    "index": 130,
+    "isbn": "978-1-4649-2181-0",
+    "title": "Explicabo animi voluptatem",
+    "authors": [
+      "Dorothea Beyer B.A."
+    ],
+    "publisher": "Keudel Sauer KG",
+    "likes": 1.9,
+    "reviews": [
+      {
+        "author": "Univ.Prof. Heiner Jüttner",
+        "text": "Qui reiciendis doloremque odio nobis dolorum vero."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Explicabo+animi+voluptatem"
+  },
+  {
+    "index": 131,
+    "isbn": "978-0-573-79248-9",
+    "title": "Aliquam officiis doloremque",
+    "authors": [
+      "Herr Konrad Trapp",
+      "Dipl.-Ing. Valeska Fliegner MBA."
+    ],
+    "publisher": "Kroker",
+    "likes": 5.8,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Aliquam+officiis+doloremque"
+  },
+  {
+    "index": 132,
+    "isbn": "978-1-69004-124-5",
+    "title": "Nostrum provident maxime ab",
+    "authors": [
+      "Hilde Wesack B.A.",
+      "Gesine Adolph"
+    ],
+    "publisher": "Süßebier Knappe AG & Co. OHG",
+    "likes": 9.4,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Nostrum+provident+maxime+ab"
+  },
+  {
+    "index": 133,
+    "isbn": "978-1-81712-547-6",
+    "title": "Quidem laborum",
+    "authors": [
+      "Heide Kaul",
+      "Halina Fiebig-Gröttner"
+    ],
+    "publisher": "Schwital",
+    "likes": 2.2,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Quidem+laborum"
+  },
+  {
+    "index": 134,
+    "isbn": "978-0-937213-33-9",
+    "title": "Sed",
+    "authors": [
+      "Gottlieb Trupp",
+      "Dr. Berta Tlustek"
+    ],
+    "publisher": "Rosenow",
+    "likes": 7.1,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Sed"
+  },
+  {
+    "index": 135,
+    "isbn": "978-1-168-21545-1",
+    "title": "Neque porro aut cumque",
+    "authors": [
+      "Sigrun Kostolzin",
+      "Rose-Marie Stiebitz-Jäntsch"
+    ],
+    "publisher": "Ritter Birnbaum AG",
+    "likes": 0.1,
+    "reviews": [
+      {
+        "author": "Alfred Junk-Butte",
+        "text": "Optio neque delectus modi. Aliquid atque autem officiis voluptatum optio possimus."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Neque+porro+aut+cumque"
+  },
+  {
+    "index": 136,
+    "isbn": "978-1-5309-4661-7",
+    "title": "Ratione temporibus",
+    "authors": [
+      "Gabriel Ortmann B.Eng.",
+      "Erna Mans"
+    ],
+    "publisher": "Adler",
+    "likes": 3.4,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Ratione+temporibus"
+  },
+  {
+    "index": 137,
+    "isbn": "978-1-07-304791-8",
+    "title": "Laborum sed",
+    "authors": [
+      "Ehrhard Tschentscher",
+      "Ayse Trüb"
+    ],
+    "publisher": "Tintzmann AG",
+    "likes": 8.5,
+    "reviews": [
+      {
+        "author": "Univ.Prof. Resi Jäntsch B.A.",
+        "text": "Qui distinctio quo molestiae quo. Fugiat atque veniam non occaecati illo ea."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Laborum+sed"
+  },
+  {
+    "index": 138,
+    "isbn": "978-0-474-81872-1",
+    "title": "Qui aperiam maiores repellendus",
+    "authors": [
+      "Hans-Jürgen Caspar B.Eng."
+    ],
+    "publisher": "Radisch",
+    "likes": 7.3,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Qui+aperiam+maiores+repellendus"
+  },
+  {
+    "index": 139,
+    "isbn": "978-1-121-62736-9",
+    "title": "Id sapiente ea maxime excepturi iste amet",
+    "authors": [
+      "Roberto Kraushaar"
+    ],
+    "publisher": "Ortmann Weitzel GmbH",
+    "likes": 4.6,
+    "reviews": [
+      {
+        "author": "Harri Kranz",
+        "text": "Voluptate nemo quam occaecati provident. Voluptates blanditiis eos quae libero."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Id+sapiente+ea+maxime+excepturi+iste+amet"
+  },
+  {
+    "index": 140,
+    "isbn": "978-1-83011-905-6",
+    "title": "Cupiditate inventore adipisci fugit animi nemo",
+    "authors": [
+      "Dr. Horst-Günter Schmiedecke B.A."
+    ],
+    "publisher": "Schuster Schacht KG",
+    "likes": 1.5,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Cupiditate+inventore+adipisci+fugit+animi+nemo"
+  },
+  {
+    "index": 141,
+    "isbn": "978-0-652-20420-9",
+    "title": "Libero eaque",
+    "authors": [
+      "Dipl.-Ing. Amir Steinberg"
+    ],
+    "publisher": "Otto Nette AG",
+    "likes": 3.0,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Libero+eaque"
+  },
+  {
+    "index": 142,
+    "isbn": "978-0-908974-45-0",
+    "title": "Praesentium fugiat quo est",
+    "authors": [
+      "Yasemin Häring B.Sc."
+    ],
+    "publisher": "Haering GmbH & Co. KGaA",
+    "likes": 1.2,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Praesentium+fugiat+quo+est"
+  },
+  {
+    "index": 143,
+    "isbn": "978-1-86539-434-3",
+    "title": "Nulla error commodi quae illum",
+    "authors": [
+      "Heinz-Gerd Jungfer B.Sc.",
+      "Frau Margrit Striebitz"
+    ],
+    "publisher": "Lehmann Heinz AG & Co. KGaA",
+    "likes": 3.9,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Nulla+error+commodi+quae+illum"
+  },
+  {
+    "index": 144,
+    "isbn": "978-1-240-63275-6",
+    "title": "Consequuntur eveniet cupiditate adipisci",
+    "authors": [
+      "Gerd Mans"
+    ],
+    "publisher": "Eberth",
+    "likes": 4.9,
+    "reviews": [
+      {
+        "author": "Klaus-Ulrich Henschel",
+        "text": "Provident ipsam iure suscipit architecto reprehenderit laudantium reiciendis. Temporibus ipsam quidem."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Consequuntur+eveniet+cupiditate+adipisci"
+  },
+  {
+    "index": 145,
+    "isbn": "978-0-333-90681-1",
+    "title": "Reprehenderit beatae",
+    "authors": [
+      "Herr Eitel Höfig B.A.",
+      "Nuray Riehl"
+    ],
+    "publisher": "Wulff",
+    "likes": 3.4,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Reprehenderit+beatae"
+  },
+  {
+    "index": 146,
+    "isbn": "978-1-86322-816-9",
+    "title": "Molestiae aliquid tempora",
+    "authors": [
+      "Dorit Heydrich"
+    ],
+    "publisher": "Aumann Röhricht GmbH & Co. KG",
+    "likes": 9.1,
+    "reviews": [
+      {
+        "author": "Aleksandra Jäkel B.Sc.",
+        "text": "Amet numquam accusantium sint. Dolorum consequatur molestias. Illo impedit debitis."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Molestiae+aliquid+tempora"
+  },
+  {
+    "index": 147,
+    "isbn": "978-0-18-230372-4",
+    "title": "Ullam vitae qui deserunt ut",
+    "authors": [
+      "Philipp Gnatz",
+      "Priska Mühle"
+    ],
+    "publisher": "Hamann Zimmer GmbH",
+    "likes": 2.4,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Ullam+vitae+qui+deserunt+ut"
+  },
+  {
+    "index": 148,
+    "isbn": "978-1-4544-2945-6",
+    "title": "Culpa quia",
+    "authors": [
+      "Swantje Kohl",
+      "Britta Eckbauer B.Sc."
+    ],
+    "publisher": "Tschentscher",
+    "likes": 5.4,
+    "reviews": [
+      {
+        "author": "Dr. Karolina Henck",
+        "text": "Ducimus eius veniam earum veniam possimus.\nCulpa voluptates quos blanditiis possimus ea."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Culpa+quia"
+  },
+  {
+    "index": 149,
+    "isbn": "978-1-9850-0471-9",
+    "title": "Officia",
+    "authors": [
+      "Tillmann Dowerg",
+      "Silvester Bender"
+    ],
+    "publisher": "Kraushaar KG",
+    "likes": 3.0,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Officia"
+  },
+  {
+    "index": 150,
+    "isbn": "978-0-16-651128-2",
+    "title": "Similique quasi nostrum",
+    "authors": [
+      "Prof. Helga Hermann"
+    ],
+    "publisher": "Mude e.G.",
+    "likes": 3.6,
+    "reviews": [
+      {
+        "author": "Univ.Prof. Rosmarie Siering",
+        "text": "Eligendi ipsa totam officia nihil molestiae. Aperiam pariatur tenetur quam."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Similique+quasi+nostrum"
+  },
+  {
+    "index": 151,
+    "isbn": "978-0-89840-399-2",
+    "title": "Nihil corrupti qui",
+    "authors": [
+      "Andrej Dörr"
+    ],
+    "publisher": "Kruschwitz GmbH & Co. KG",
+    "likes": 3.6,
+    "reviews": [
+      {
+        "author": "Anna-Lena Riehl",
+        "text": "Dolores hic sapiente laudantium excepturi illo ex. Ad dicta fugiat blanditiis non unde assumenda."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Nihil+corrupti+qui"
+  },
+  {
+    "index": 152,
+    "isbn": "978-1-69634-675-7",
+    "title": "Reprehenderit quasi veritatis",
+    "authors": [
+      "Prof. Rocco Wende B.Eng.",
+      "Prof. Lucia Vogt MBA."
+    ],
+    "publisher": "Hänel",
+    "likes": 8.1,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Reprehenderit+quasi+veritatis"
+  },
+  {
+    "index": 153,
+    "isbn": "978-0-329-77373-1",
+    "title": "Quos repellendus nostrum quibusdam",
+    "authors": [
+      "Frau Ruthild Christoph",
+      "Ing. Gerhild Speer"
+    ],
+    "publisher": "Krein",
+    "likes": 6.3,
+    "reviews": [
+      {
+        "author": "Aldo Haering-Lachmann",
+        "text": "Quo dolores blanditiis necessitatibus. Maiores error maxime iure."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Quos+repellendus+nostrum+quibusdam"
+  },
+  {
+    "index": 154,
+    "isbn": "978-0-13-713684-1",
+    "title": "Dolores ea quaerat",
+    "authors": [
+      "Heinz-Günther Hethur"
+    ],
+    "publisher": "Schuchhardt",
+    "likes": 4.0,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Dolores+ea+quaerat"
+  },
+  {
+    "index": 155,
+    "isbn": "978-1-85839-680-4",
+    "title": "Illum dolorum fugiat reprehenderit amet",
+    "authors": [
+      "Gerold Bauer"
+    ],
+    "publisher": "Preiß",
+    "likes": 1.9,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Illum+dolorum+fugiat+reprehenderit+amet"
+  },
+  {
+    "index": 156,
+    "isbn": "978-1-84966-823-1",
+    "title": "Exercitationem debitis",
+    "authors": [
+      "Gretchen Mielcarek"
+    ],
+    "publisher": "Dippel",
+    "likes": 0.6,
+    "reviews": [
+      {
+        "author": "Süleyman Zorbach",
+        "text": "Maiores nemo distinctio. Vitae commodi tempora earum similique tempore labore suscipit."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Exercitationem+debitis"
+  },
+  {
+    "index": 157,
+    "isbn": "978-1-237-77207-6",
+    "title": "Placeat suscipit facere perspiciatis libero",
+    "authors": [
+      "Karl-Dieter Spieß"
+    ],
+    "publisher": "Döring Kranz AG",
+    "likes": 9.6,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Placeat+suscipit+facere+perspiciatis+libero"
+  },
+  {
+    "index": 158,
+    "isbn": "978-1-62884-525-9",
+    "title": "Mollitia consequatur",
+    "authors": [
+      "Sven Zirme B.A.",
+      "Waltrud Finke MBA."
+    ],
+    "publisher": "Rädel Ehlert KG",
+    "likes": 1.9,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Mollitia+consequatur"
+  },
+  {
+    "index": 159,
+    "isbn": "978-0-07-755231-2",
+    "title": "Sapiente asperiores error",
+    "authors": [
+      "Univ.Prof. Gaby Trüb"
+    ],
+    "publisher": "Bolzmann AG & Co. OHG",
+    "likes": 2.1,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Sapiente+asperiores+error"
+  },
+  {
+    "index": 160,
+    "isbn": "978-0-647-06148-0",
+    "title": "Dolorem",
+    "authors": [
+      "Janine Lange"
+    ],
+    "publisher": "Gierschner AG",
+    "likes": 3.0,
+    "reviews": [
+      {
+        "author": "Wieland Sölzer",
+        "text": "Nemo distinctio accusantium quod odio. Architecto repudiandae provident sequi quam. Aliquid explicabo aperiam eligendi."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Dolorem"
+  },
+  {
+    "index": 161,
+    "isbn": "978-0-8470-4519-8",
+    "title": "Magni praesentium autem aut ex",
+    "authors": [
+      "Karl-Peter Preiß"
+    ],
+    "publisher": "Dussen van Lindner KG",
+    "likes": 5.3,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Magni+praesentium+autem+aut+ex"
+  },
+  {
+    "index": 162,
+    "isbn": "978-0-07-794482-7",
+    "title": "Iure commodi magnam autem",
+    "authors": [
+      "Katharine Karz",
+      "Adelbert Zahn"
+    ],
+    "publisher": "Langern Junitz GmbH",
+    "likes": 9.8,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Iure+commodi+magnam+autem"
+  },
+  {
+    "index": 163,
+    "isbn": "978-1-5086-3563-5",
+    "title": "Animi voluptatibus voluptate molestias",
+    "authors": [
+      "Zeki Radisch",
+      "Vera Rosenow"
+    ],
+    "publisher": "Schweitzer",
+    "likes": 7.5,
+    "reviews": [
+      {
+        "author": "Karl-Jürgen Bohlander",
+        "text": "Nam neque tempore ab placeat cum iusto. Recusandae inventore sapiente voluptas."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Animi+voluptatibus+voluptate+molestias"
+  },
+  {
+    "index": 164,
+    "isbn": "978-1-239-54785-6",
+    "title": "Voluptatum excepturi dignissimos",
+    "authors": [
+      "Ing. Gabor Pölitz B.A.",
+      "August Schomber-Kühnert"
+    ],
+    "publisher": "Sölzer GmbH & Co. KGaA",
+    "likes": 0.1,
+    "reviews": [
+      {
+        "author": "Herr Xaver Wende",
+        "text": "Minus molestiae occaecati. Expedita excepturi iste non reprehenderit animi labore iste."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Voluptatum+excepturi+dignissimos"
+  },
+  {
+    "index": 165,
+    "isbn": "978-1-383-60385-9",
+    "title": "Excepturi facere quidem ipsum laborum",
+    "authors": [
+      "Bernd Schacht",
+      "Hans-J. Etzold"
+    ],
+    "publisher": "Sauer",
+    "likes": 4.6,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Excepturi+facere+quidem+ipsum+laborum"
+  },
+  {
+    "index": 166,
+    "isbn": "978-0-7843-3006-7",
+    "title": "Inventore suscipit cum sapiente quia",
+    "authors": [
+      "Prof. Carola Scholz B.Sc."
+    ],
+    "publisher": "Röhricht Schmidtke GmbH & Co. KG",
+    "likes": 9.7,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Inventore+suscipit+cum+sapiente+quia"
+  },
+  {
+    "index": 167,
+    "isbn": "978-0-304-13753-4",
+    "title": "Error mollitia iure",
+    "authors": [
+      "Gülay van der Dussen",
+      "Steffen Ritter"
+    ],
+    "publisher": "Thies Tlustek GmbH & Co. KGaA",
+    "likes": 2.6,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Error+mollitia+iure"
+  },
+  {
+    "index": 168,
+    "isbn": "978-1-330-97098-0",
+    "title": "Quod tempora velit dignissimos eveniet",
+    "authors": [
+      "Maurizio Reuter-Zirme"
+    ],
+    "publisher": "Seidel",
+    "likes": 6.3,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Quod+tempora+velit+dignissimos+eveniet"
+  },
+  {
+    "index": 169,
+    "isbn": "978-1-187-93930-7",
+    "title": "Unde",
+    "authors": [
+      "Janus Mende",
+      "Süleyman Metz"
+    ],
+    "publisher": "Niemeier Tlustek KG",
+    "likes": 8.4,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Unde"
+  },
+  {
+    "index": 170,
+    "isbn": "978-1-271-51781-7",
+    "title": "Enim sequi",
+    "authors": [
+      "Adelinde Löchel",
+      "Kirsten Kallert-Meister"
+    ],
+    "publisher": "Dietz",
+    "likes": 4.9,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Enim+sequi"
+  },
+  {
+    "index": 171,
+    "isbn": "978-0-423-76745-2",
+    "title": "Ad libero",
+    "authors": [
+      "Bernadette auch Schlauchin-Hesse"
+    ],
+    "publisher": "Bloch OHG mbH",
+    "likes": 1.9,
+    "reviews": [
+      {
+        "author": "Utz Häring",
+        "text": "Impedit similique ex explicabo. Aspernatur omnis vitae adipisci esse sapiente dignissimos."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Ad+libero"
+  },
+  {
+    "index": 172,
+    "isbn": "978-0-8252-8704-6",
+    "title": "Aspernatur dolore dicta",
+    "authors": [
+      "Arnold Caspar",
+      "Randolf Neuschäfer"
+    ],
+    "publisher": "Zimmer GmbH",
+    "likes": 2.8,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Aspernatur+dolore+dicta"
+  },
+  {
+    "index": 173,
+    "isbn": "978-0-346-70918-8",
+    "title": "Repudiandae eius harum vitae",
+    "authors": [
+      "Randolf Reising",
+      "Bogdan Speer"
+    ],
+    "publisher": "Heß GbR",
+    "likes": 4.5,
+    "reviews": [
+      {
+        "author": "Birte Kroker",
+        "text": "Perspiciatis eius qui fugiat inventore. Ipsa tempore voluptatem alias."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Repudiandae+eius+harum+vitae"
+  },
+  {
+    "index": 174,
+    "isbn": "978-1-82757-412-7",
+    "title": "Inventore velit blanditiis",
+    "authors": [
+      "Dr. Evangelos Börner",
+      "Ante Radisch"
+    ],
+    "publisher": "Kreusel",
+    "likes": 9.1,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Inventore+velit+blanditiis"
+  },
+  {
+    "index": 175,
+    "isbn": "978-1-244-65464-8",
+    "title": "Rerum natus",
+    "authors": [
+      "Rolf-Dieter Meyer"
+    ],
+    "publisher": "Hartung",
+    "likes": 5.3,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Rerum+natus"
+  },
+  {
+    "index": 176,
+    "isbn": "978-0-7200-3439-4",
+    "title": "Numquam perferendis quibusdam placeat maiores",
+    "authors": [
+      "Univ.Prof. Hans-Jürgen Loos B.Sc."
+    ],
+    "publisher": "Stahr",
+    "likes": 7.2,
+    "reviews": [
+      {
+        "author": "Korinna Schacht",
+        "text": "Illum earum alias. Cupiditate labore vitae laborum."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Numquam+perferendis+quibusdam+placeat+maiores"
+  },
+  {
+    "index": 177,
+    "isbn": "978-1-07-990229-7",
+    "title": "Odit atque impedit ipsum",
+    "authors": [
+      "Eitel Gude",
+      "Herr Claus Kostolzin B.Eng."
+    ],
+    "publisher": "Tschentscher Rosemann AG",
+    "likes": 1.7,
+    "reviews": [
+      {
+        "author": "Leonid Mende B.Eng.",
+        "text": "Accusamus fuga sequi maiores ratione natus ea. Dolor repellendus veniam sequi impedit."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Odit+atque+impedit+ipsum"
+  },
+  {
+    "index": 178,
+    "isbn": "978-1-4758-5681-1",
+    "title": "Quidem exercitationem",
+    "authors": [
+      "Beatrix Pärtzelt",
+      "Magnus Gröttner"
+    ],
+    "publisher": "Paffrath",
+    "likes": 6.0,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Quidem+exercitationem"
+  },
+  {
+    "index": 179,
+    "isbn": "978-1-910486-59-7",
+    "title": "Id laborum nisi sint",
+    "authors": [
+      "Dipl.-Ing. Ismail Mies B.A."
+    ],
+    "publisher": "Freudenberger Heß GmbH & Co. OHG",
+    "likes": 8.3,
+    "reviews": [
+      {
+        "author": "Dr. Gilda Klemm",
+        "text": "Officiis eius nobis et. Repellat labore adipisci doloribus aspernatur consectetur."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Id+laborum+nisi+sint"
+  },
+  {
+    "index": 180,
+    "isbn": "978-1-209-17462-4",
+    "title": "Qui quam id",
+    "authors": [
+      "Anatolij Ritter"
+    ],
+    "publisher": "van der Dussen AG & Co. OHG",
+    "likes": 1.4,
+    "reviews": [
+      {
+        "author": "Malte Jäntsch",
+        "text": "Eaque nihil rerum beatae illum. Ut odio sunt voluptates nemo. Asperiores doloremque optio illum quas quidem."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Qui+quam+id"
+  },
+  {
+    "index": 181,
+    "isbn": "978-1-62471-863-2",
+    "title": "Possimus aliquid aut amet rerum facilis iste minima",
+    "authors": [
+      "Diana Schottin-Killer",
+      "Verena Ring"
+    ],
+    "publisher": "Ernst e.V.",
+    "likes": 9.9,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Possimus+aliquid+aut+amet+rerum+facilis+iste+minima"
+  },
+  {
+    "index": 182,
+    "isbn": "978-0-510-32602-9",
+    "title": "Quae culpa",
+    "authors": [
+      "Pavel Beier-Briemer"
+    ],
+    "publisher": "Mitschke GbR",
+    "likes": 8.8,
+    "reviews": [
+      {
+        "author": "Yasemin Gröttner-Börner",
+        "text": "Consectetur id ipsam eius dolor veritatis. Maxime ratione labore id sapiente sed sint."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Quae+culpa"
+  },
+  {
+    "index": 183,
+    "isbn": "978-0-304-33832-0",
+    "title": "Odit doloremque",
+    "authors": [
+      "Dietrich Schmiedecke"
+    ],
+    "publisher": "Trommler Trapp KG",
+    "likes": 4.4,
+    "reviews": [
+      {
+        "author": "Corinna Beyer",
+        "text": "Totam quis error blanditiis. Quae quidem doloribus voluptatem."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Odit+doloremque"
+  },
+  {
+    "index": 184,
+    "isbn": "978-1-189-43755-9",
+    "title": "Nulla nisi sunt quia",
+    "authors": [
+      "Karl-Hans Schmiedecke"
+    ],
+    "publisher": "Koch II GbR",
+    "likes": 7.2,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Nulla+nisi+sunt+quia"
+  },
+  {
+    "index": 185,
+    "isbn": "978-0-01-900426-8",
+    "title": "Tempore quidem libero",
+    "authors": [
+      "Sandra Roht-Werner"
+    ],
+    "publisher": "Keudel",
+    "likes": 1.6,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Tempore+quidem+libero"
+  },
+  {
+    "index": 186,
+    "isbn": "978-1-61076-070-6",
+    "title": "Illo similique sed ipsam tempora quo",
+    "authors": [
+      "Abraham Hövel B.A.",
+      "Athanasios Beer"
+    ],
+    "publisher": "Junck",
+    "likes": 4.6,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Illo+similique+sed+ipsam+tempora+quo"
+  },
+  {
+    "index": 187,
+    "isbn": "978-1-232-20347-6",
+    "title": "Maiores ipsum facilis molestias",
+    "authors": [
+      "Bernd Heinrich"
+    ],
+    "publisher": "Linke e.V.",
+    "likes": 2.0,
+    "reviews": [
+      {
+        "author": "Frau Lieselotte Trapp MBA.",
+        "text": "Natus blanditiis nemo error eligendi nisi. Quae similique nobis. Harum corrupti ipsam accusamus neque blanditiis est."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Maiores+ipsum+facilis+molestias"
+  },
+  {
+    "index": 188,
+    "isbn": "978-0-581-22456-9",
+    "title": "Dolorum animi doloribus ipsum",
+    "authors": [
+      "Dr. Katharina Eigenwillig",
+      "Prof. Gerhardt Beyer B.Sc."
+    ],
+    "publisher": "Hettner",
+    "likes": 3.4,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Dolorum+animi+doloribus+ipsum"
+  },
+  {
+    "index": 189,
+    "isbn": "978-1-09-524482-1",
+    "title": "Cum facilis",
+    "authors": [
+      "Kati Sorgatz MBA.",
+      "Alessandro Löchel-Döhn"
+    ],
+    "publisher": "Weller Salz GmbH",
+    "likes": 5.6,
+    "reviews": [
+      {
+        "author": "Elzbieta Hoffmann",
+        "text": "Sequi dolores minus nesciunt. Repudiandae ab quisquam dolor eaque atque debitis."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Cum+facilis"
+  },
+  {
+    "index": 190,
+    "isbn": "978-0-7991-3068-3",
+    "title": "Explicabo",
+    "authors": [
+      "Prof. Selma Haase",
+      "Rahel Spieß"
+    ],
+    "publisher": "Köster",
+    "likes": 9.9,
+    "reviews": [
+      {
+        "author": "Mareile Beer",
+        "text": "Consequatur nam similique laborum aspernatur asperiores maiores. Fugit fugiat cum enim ut quibusdam."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Explicabo"
+  },
+  {
+    "index": 191,
+    "isbn": "978-0-7952-4906-8",
+    "title": "Consequuntur",
+    "authors": [
+      "Metin Zorbach"
+    ],
+    "publisher": "Bolnbach Hahn KG",
+    "likes": 9.9,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Consequuntur"
+  },
+  {
+    "index": 192,
+    "isbn": "978-1-263-60676-5",
+    "title": "Amet sapiente atque debitis",
+    "authors": [
+      "Bernward Gehringer",
+      "Carmen Werner"
+    ],
+    "publisher": "Pieper",
+    "likes": 5.4,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Amet+sapiente+atque+debitis"
+  },
+  {
+    "index": 193,
+    "isbn": "978-0-693-27727-9",
+    "title": "Consequuntur suscipit",
+    "authors": [
+      "Jasmin Röhricht",
+      "Dr. Edeltraud Faust"
+    ],
+    "publisher": "Aumann Binner AG & Co. KGaA",
+    "likes": 4.1,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Consequuntur+suscipit"
+  },
+  {
+    "index": 194,
+    "isbn": "978-1-186-97089-9",
+    "title": "Consequuntur occaecati at at fuga",
+    "authors": [
+      "Steve Heidrich",
+      "Lilija Preiß"
+    ],
+    "publisher": "Sölzer",
+    "likes": 6.6,
+    "reviews": [
+      {
+        "author": "Dr. Justina Fischer",
+        "text": "Ratione ipsam quibusdam similique unde incidunt similique. Perspiciatis porro expedita error excepturi magnam."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Consequuntur+occaecati+at+at+fuga"
+  },
+  {
+    "index": 195,
+    "isbn": "978-0-12-728569-6",
+    "title": "Atque optio natus quisquam",
+    "authors": [
+      "Trudel Bolzmann",
+      "Herr Francis Plath B.Eng."
+    ],
+    "publisher": "Austermühle",
+    "likes": 1.5,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Atque+optio+natus+quisquam"
+  },
+  {
+    "index": 196,
+    "isbn": "978-0-18-138994-1",
+    "title": "Magnam",
+    "authors": [
+      "Prof. Marlies Hendriks"
+    ],
+    "publisher": "Wohlgemut Benthin AG",
+    "likes": 10.0,
+    "reviews": [
+      {
+        "author": "Henny Mangold",
+        "text": "Libero vero fugiat. Consequuntur et distinctio ullam autem temporibus.\nEum minus autem ab. Neque ex voluptate."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Magnam"
+  },
+  {
+    "index": 197,
+    "isbn": "978-0-634-52070-9",
+    "title": "Odit culpa nihil tempore deleniti",
+    "authors": [
+      "Catrin Berger"
+    ],
+    "publisher": "Wiek GbR",
+    "likes": 4.2,
+    "reviews": [
+      {
+        "author": "Lisa Junk",
+        "text": "Deleniti iste quos dolor vitae modi ipsa. Et ullam distinctio doloribus deserunt."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Odit+culpa+nihil+tempore+deleniti"
+  },
+  {
+    "index": 198,
+    "isbn": "978-1-213-67253-6",
+    "title": "Officiis aliquid",
+    "authors": [
+      "Gertraud Baum"
+    ],
+    "publisher": "Hande",
+    "likes": 8.4,
+    "reviews": [
+      {
+        "author": "Christel Hörle B.Sc.",
+        "text": "Ipsa facere dolor quos voluptatibus quo. Accusantium quisquam asperiores eaque."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Officiis+aliquid"
+  },
+  {
+    "index": 199,
+    "isbn": "978-1-62806-515-2",
+    "title": "In eaque cum qui blanditiis",
+    "authors": [
+      "Ing. Volker Beckmann B.Sc."
+    ],
+    "publisher": "Ziegert Reising AG",
+    "likes": 4.9,
+    "reviews": [
+      {
+        "author": "Nick Hentschel",
+        "text": "Magnam porro nesciunt ullam eius rem repudiandae. Nesciunt inventore adipisci ea reprehenderit deleniti error."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=In+eaque+cum+qui+blanditiis"
+  },
+  {
+    "index": 200,
+    "isbn": "978-1-341-34402-2",
+    "title": "Sapiente ratione unde",
+    "authors": [
+      "Irmingard Flantz",
+      "Ing. Jessica Fechner"
+    ],
+    "publisher": "Barth",
+    "likes": 2.0,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Sapiente+ratione+unde"
+  },
+  {
+    "index": 201,
+    "isbn": "978-1-78542-323-9",
+    "title": "Doloremque illo",
+    "authors": [
+      "Dipl.-Ing. Ljubica Striebitz",
+      "Johan Eberhardt"
+    ],
+    "publisher": "Karge",
+    "likes": 8.3,
+    "reviews": [
+      {
+        "author": "Gesa Adolph",
+        "text": "Explicabo consequuntur tempore maxime. Et totam magnam aut alias laborum amet."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Doloremque+illo"
+  },
+  {
+    "index": 202,
+    "isbn": "978-1-70462-669-7",
+    "title": "Quaerat",
+    "authors": [
+      "Dr. Birgitta Gunpf",
+      "Ing. Benjamin Striebitz"
+    ],
+    "publisher": "Wiek",
+    "likes": 8.9,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Quaerat"
+  },
+  {
+    "index": 203,
+    "isbn": "978-0-469-10539-3",
+    "title": "Consequuntur distinctio",
+    "authors": [
+      "Daniela Schuchhardt",
+      "Silvia Röhrdanz MBA."
+    ],
+    "publisher": "Eberhardt GmbH & Co. OHG",
+    "likes": 2.3,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Consequuntur+distinctio"
+  },
+  {
+    "index": 204,
+    "isbn": "978-0-209-66134-9",
+    "title": "Aliquam sequi",
+    "authors": [
+      "Ing. Christiana Binner B.A."
+    ],
+    "publisher": "Koch II",
+    "likes": 2.4,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Aliquam+sequi"
+  },
+  {
+    "index": 205,
+    "isbn": "978-1-195-43985-1",
+    "title": "Eius",
+    "authors": [
+      "Anna-Marie Schaaf",
+      "Gülsen Krein-Kramer"
+    ],
+    "publisher": "Klapp KG",
+    "likes": 0.9,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Eius"
+  },
+  {
+    "index": 206,
+    "isbn": "978-0-8170-1019-5",
+    "title": "Atque laboriosam facilis molestiae",
+    "authors": [
+      "Stephanie Weiß-Herrmann"
+    ],
+    "publisher": "Hettner",
+    "likes": 5.1,
+    "reviews": [
+      {
+        "author": "Marija Nohlmans",
+        "text": "Error provident vero aperiam rem quidem. Voluptates suscipit architecto accusamus inventore quidem reprehenderit."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Atque+laboriosam+facilis+molestiae"
+  },
+  {
+    "index": 207,
+    "isbn": "978-0-10-896933-1",
+    "title": "Porro qui hic aperiam natus",
+    "authors": [
+      "Walli Zirme-Junken"
+    ],
+    "publisher": "Stolze KG",
+    "likes": 4.0,
+    "reviews": [
+      {
+        "author": "Dipl.-Ing. Walentina Neuschäfer",
+        "text": "Blanditiis nostrum voluptatem eius. Vitae iusto vel officiis aut in."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Porro+qui+hic+aperiam+natus"
+  },
+  {
+    "index": 208,
+    "isbn": "978-1-196-89451-2",
+    "title": "Ullam atque",
+    "authors": [
+      "Philomena Eckbauer B.Eng.",
+      "Dr. Marga Beier B.A."
+    ],
+    "publisher": "Förster",
+    "likes": 8.8,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Ullam+atque"
+  },
+  {
+    "index": 209,
+    "isbn": "978-0-85559-457-2",
+    "title": "Labore aliquam eaque dolores libero possimus esse officiis",
+    "authors": [
+      "Luitgard Hande"
+    ],
+    "publisher": "Lübs",
+    "likes": 9.0,
+    "reviews": [
+      {
+        "author": "Friedhold Stolze",
+        "text": "Laborum voluptatibus consectetur placeat laudantium voluptatibus sequi. Ex suscipit ullam quam illo ducimus."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Labore+aliquam+eaque+dolores+libero+possimus+esse+officiis"
+  },
+  {
+    "index": 210,
+    "isbn": "978-1-5395-9716-2",
+    "title": "Amet ipsum officiis dignissimos tempore quos",
+    "authors": [
+      "Ing. Hasan Neureuther",
+      "Friedrich-Wilhelm Hethur"
+    ],
+    "publisher": "Segebahn Kaul e.V.",
+    "likes": 6.6,
+    "reviews": [
+      {
+        "author": "Mikhail Jungfer",
+        "text": "Necessitatibus dolore nam esse pariatur. Facere suscipit quidem dolore. Rerum repellendus laboriosam aliquid."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Amet+ipsum+officiis+dignissimos+tempore+quos"
+  },
+  {
+    "index": 211,
+    "isbn": "978-0-532-87433-1",
+    "title": "Ut quae cupiditate rerum",
+    "authors": [
+      "Friedhelm Fechner"
+    ],
+    "publisher": "Hornig e.V.",
+    "likes": 5.4,
+    "reviews": [
+      {
+        "author": "Uli Renner",
+        "text": "Maxime in voluptates ut minima eius perspiciatis. Fugiat architecto consequuntur eum."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Ut+quae+cupiditate+rerum"
+  },
+  {
+    "index": 212,
+    "isbn": "978-1-990431-04-3",
+    "title": "Modi",
+    "authors": [
+      "Dipl.-Ing. Hilma Förster"
+    ],
+    "publisher": "Gierschner Schaaf GmbH",
+    "likes": 9.5,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Modi"
+  },
+  {
+    "index": 213,
+    "isbn": "978-1-959721-66-6",
+    "title": "Eius maiores provident quisquam maxime dolorum natus voluptatem",
+    "authors": [
+      "Ben Jopich MBA.",
+      "Agathe Karge MBA."
+    ],
+    "publisher": "Vollbrecht Köhler Stiftung & Co. KG",
+    "likes": 5.1,
+    "reviews": [
+      {
+        "author": "Mikhail Aumann",
+        "text": "Quidem mollitia ad esse odio. Vel quos ipsam minus. Suscipit soluta est facilis amet libero ipsa."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Eius+maiores+provident+quisquam+maxime+dolorum+natus+voluptatem"
+  },
+  {
+    "index": 214,
+    "isbn": "978-1-280-60343-3",
+    "title": "Ad debitis",
+    "authors": [
+      "Leonard Ritter-Gude"
+    ],
+    "publisher": "Neuschäfer",
+    "likes": 0.6,
+    "reviews": [
+      {
+        "author": "German Heuser",
+        "text": "Tempora odio aperiam odit. Beatae libero mollitia dolore voluptate. Blanditiis dolorem cumque nam."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Ad+debitis"
+  },
+  {
+    "index": 215,
+    "isbn": "978-0-249-24738-1",
+    "title": "Placeat in fugiat expedita",
+    "authors": [
+      "Gilda Hesse MBA.",
+      "Dipl.-Ing. Rose Faust B.A."
+    ],
+    "publisher": "Kramer e.G.",
+    "likes": 5.0,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Placeat+in+fugiat+expedita"
+  },
+  {
+    "index": 216,
+    "isbn": "978-0-207-65298-1",
+    "title": "Qui harum",
+    "authors": [
+      "Laurenz Hellwig-Löffler",
+      "Gönül Rogge-Patberg"
+    ],
+    "publisher": "Wulff GmbH",
+    "likes": 9.3,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Qui+harum"
+  },
+  {
+    "index": 217,
+    "isbn": "978-1-902581-53-8",
+    "title": "Dolore enim eveniet modi atque delectus",
+    "authors": [
+      "Alice Eigenwillig",
+      "Senta Wilms"
+    ],
+    "publisher": "Hörle Hübel AG",
+    "likes": 5.9,
+    "reviews": [
+      {
+        "author": "Ing. Sedat Ruppert MBA.",
+        "text": "Magni provident enim assumenda consequuntur. Sunt laudantium consequuntur. Vel tempora deleniti modi velit."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Dolore+enim+eveniet+modi+atque+delectus"
+  },
+  {
+    "index": 218,
+    "isbn": "978-1-247-12526-8",
+    "title": "Dignissimos itaque delectus iste",
+    "authors": [
+      "Georgia Zorbach",
+      "Miodrag Römer-Nette"
+    ],
+    "publisher": "Reuter AG",
+    "likes": 2.3,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Dignissimos+itaque+delectus+iste"
+  },
+  {
+    "index": 219,
+    "isbn": "978-1-79361-395-0",
+    "title": "Voluptate odit eaque veritatis",
+    "authors": [
+      "Dipl.-Ing. Antonios Zirme B.Eng.",
+      "Burckhard Jockel B.Sc."
+    ],
+    "publisher": "Nerger",
+    "likes": 7.7,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Voluptate+odit+eaque+veritatis"
+  },
+  {
+    "index": 220,
+    "isbn": "978-1-4039-1149-0",
+    "title": "Odio quia alias asperiores minima laboriosam quo",
+    "authors": [
+      "Aenne Patberg B.Eng."
+    ],
+    "publisher": "Gerlach",
+    "likes": 4.2,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Odio+quia+alias+asperiores+minima+laboriosam+quo"
+  },
+  {
+    "index": 221,
+    "isbn": "978-0-546-00706-0",
+    "title": "Laboriosam saepe esse",
+    "authors": [
+      "Univ.Prof. Brigitte Gertz",
+      "Leila Paffrath MBA."
+    ],
+    "publisher": "Kambs",
+    "likes": 8.6,
+    "reviews": [
+      {
+        "author": "Sylwia Vollbrecht",
+        "text": "Deserunt sit quia sequi. Architecto saepe optio inventore. Nemo ad excepturi id repellat."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Laboriosam+saepe+esse"
+  },
+  {
+    "index": 222,
+    "isbn": "978-1-81480-212-7",
+    "title": "Sit nulla",
+    "authors": [
+      "Heino Reising B.Sc.",
+      "Fred Preiß"
+    ],
+    "publisher": "Dippel GmbH",
+    "likes": 7.1,
+    "reviews": [
+      {
+        "author": "Zenon Stiebitz",
+        "text": "Dicta natus quaerat aut ipsa architecto animi. Aperiam cumque quia magnam sapiente."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Sit+nulla"
+  },
+  {
+    "index": 223,
+    "isbn": "978-1-936616-66-4",
+    "title": "Quam",
+    "authors": [
+      "Hans-Uwe Kranz"
+    ],
+    "publisher": "Staude AG & Co. KG",
+    "likes": 9.2,
+    "reviews": [
+      {
+        "author": "Alfons Schmidt",
+        "text": "Fugit nemo reiciendis corrupti repellendus maxime. Laboriosam consequatur facere reprehenderit cupiditate quos."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Quam"
+  },
+  {
+    "index": 224,
+    "isbn": "978-0-393-76987-6",
+    "title": "Ab reprehenderit fugit ducimus",
+    "authors": [
+      "Alexej Tintzmann",
+      "Frau Mia auch Schlauchin MBA."
+    ],
+    "publisher": "Wulf e.G.",
+    "likes": 6.7,
+    "reviews": [
+      {
+        "author": "Kasimir Zirme",
+        "text": "Illum autem commodi quo. Quas dolorem amet quam eum impedit exercitationem blanditiis. Veniam magnam placeat neque quo."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Ab+reprehenderit+fugit+ducimus"
+  },
+  {
+    "index": 225,
+    "isbn": "978-1-62544-155-3",
+    "title": "Fugit qui",
+    "authors": [
+      "Damaris Barkholz B.Sc.",
+      "Univ.Prof. Brita Hering B.Eng."
+    ],
+    "publisher": "Mosemann van der Dussen KG",
+    "likes": 6.1,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Fugit+qui"
+  },
+  {
+    "index": 226,
+    "isbn": "978-0-8282-0516-0",
+    "title": "At pariatur pariatur soluta at enim",
+    "authors": [
+      "Univ.Prof. Detlef Riehl",
+      "Irmtraut van der Dussen"
+    ],
+    "publisher": "Rörricht Fischer AG",
+    "likes": 9.2,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=At+pariatur+pariatur+soluta+at+enim"
+  },
+  {
+    "index": 227,
+    "isbn": "978-1-75521-734-9",
+    "title": "Doloribus similique adipisci",
+    "authors": [
+      "Doris Stiffel",
+      "Klaus Hermann"
+    ],
+    "publisher": "Hauffer",
+    "likes": 8.3,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Doloribus+similique+adipisci"
+  },
+  {
+    "index": 228,
+    "isbn": "978-0-03-227632-1",
+    "title": "Provident commodi quos recusandae iste at tempore",
+    "authors": [
+      "Dipl.-Ing. Elvira Schacht",
+      "Anika Kaul-Ritter"
+    ],
+    "publisher": "Schwital",
+    "likes": 5.8,
+    "reviews": [
+      {
+        "author": "Antonie Renner B.A.",
+        "text": "Esse iusto numquam magnam id harum. Quo ipsum illo illum neque earum odio. Beatae tenetur provident doloribus et."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Provident+commodi+quos+recusandae+iste+at+tempore"
+  },
+  {
+    "index": 229,
+    "isbn": "978-0-348-12004-2",
+    "title": "Deleniti quidem ex sint",
+    "authors": [
+      "Dipl.-Ing. Sarina Krebs B.Sc.",
+      "Univ.Prof. Ekrem Mohaupt"
+    ],
+    "publisher": "Gunpf Schaaf GmbH",
+    "likes": 5.5,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Deleniti+quidem+ex+sint"
+  },
+  {
+    "index": 230,
+    "isbn": "978-0-10-773772-6",
+    "title": "Eos iure incidunt",
+    "authors": [
+      "Ing. Burckhard Stumpf",
+      "Alexander Ruppersberger"
+    ],
+    "publisher": "Mitschke KG",
+    "likes": 0.6,
+    "reviews": [
+      {
+        "author": "Ing. Heino Döhn B.Sc.",
+        "text": "Vel sunt a cumque cupiditate. Consequatur deserunt veniam minima. Porro modi voluptate atque."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Eos+iure+incidunt"
+  },
+  {
+    "index": 231,
+    "isbn": "978-0-19-197341-3",
+    "title": "Dolorem optio animi blanditiis eos",
+    "authors": [
+      "Johan Wilmsen B.Eng."
+    ],
+    "publisher": "Vollbrecht",
+    "likes": 0.9,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Dolorem+optio+animi+blanditiis+eos"
+  },
+  {
+    "index": 232,
+    "isbn": "978-0-493-59725-6",
+    "title": "Id corporis consectetur tempora quas",
+    "authors": [
+      "Sepp Hahn",
+      "Prof. Ella Nerger"
+    ],
+    "publisher": "Radisch Ruppert KG",
+    "likes": 8.2,
+    "reviews": [
+      {
+        "author": "Rudolf Finke B.A.",
+        "text": "Consectetur praesentium commodi aut impedit ducimus. Vitae consequuntur minus laudantium iure autem reiciendis."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Id+corporis+consectetur+tempora+quas"
+  },
+  {
+    "index": 233,
+    "isbn": "978-0-386-73730-1",
+    "title": "Nisi eius fuga eum neque",
+    "authors": [
+      "Anneli Roht-Finke"
+    ],
+    "publisher": "Cichorius",
+    "likes": 4.9,
+    "reviews": [
+      {
+        "author": "Anselm Roht B.Eng.",
+        "text": "Qui tempore culpa temporibus. Itaque aspernatur laboriosam excepturi fugiat."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Nisi+eius+fuga+eum+neque"
+  },
+  {
+    "index": 234,
+    "isbn": "978-0-210-20385-9",
+    "title": "Tenetur in ea nemo dolores",
+    "authors": [
+      "Leokadia Margraf",
+      "Tina Stroh"
+    ],
+    "publisher": "Wähner",
+    "likes": 4.3,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Tenetur+in+ea+nemo+dolores"
+  },
+  {
+    "index": 235,
+    "isbn": "978-0-9523781-8-1",
+    "title": "Aperiam et eligendi in commodi iusto",
+    "authors": [
+      "Erica Blümel B.Sc.",
+      "Evelin Weinhage-Löwer"
+    ],
+    "publisher": "Zimmer GmbH & Co. KGaA",
+    "likes": 8.6,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Aperiam+et+eligendi+in+commodi+iusto"
+  },
+  {
+    "index": 236,
+    "isbn": "978-0-290-65484-8",
+    "title": "Sit earum aperiam atque",
+    "authors": [
+      "Theodora Segebahn"
+    ],
+    "publisher": "Staude",
+    "likes": 5.2,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Sit+earum+aperiam+atque"
+  },
+  {
+    "index": 237,
+    "isbn": "978-1-955722-37-7",
+    "title": "Voluptatem illum",
+    "authors": [
+      "Isabel Gutknecht",
+      "Undine Pruschke B.Eng."
+    ],
+    "publisher": "Hermighausen Jüttner AG",
+    "likes": 8.1,
+    "reviews": [
+      {
+        "author": "Dipl.-Ing. Bela Hethur B.Sc.",
+        "text": "Aut deserunt asperiores pariatur architecto quasi facilis. Necessitatibus ut delectus aperiam pariatur quae omnis."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Voluptatem+illum"
+  },
+  {
+    "index": 238,
+    "isbn": "978-0-904047-23-3",
+    "title": "Sequi repellat fuga exercitationem magni",
+    "authors": [
+      "Helge Junck B.Eng.",
+      "Dr. Mike Müller"
+    ],
+    "publisher": "Salz AG",
+    "likes": 4.9,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Sequi+repellat+fuga+exercitationem+magni"
+  },
+  {
+    "index": 239,
+    "isbn": "978-1-9863-8666-1",
+    "title": "Deleniti at pariatur veritatis",
+    "authors": [
+      "Alena Kabus-Kitzmann"
+    ],
+    "publisher": "Mälzer Kohl AG",
+    "likes": 6.8,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Deleniti+at+pariatur+veritatis"
+  },
+  {
+    "index": 240,
+    "isbn": "978-0-13-169762-1",
+    "title": "Similique dolorum maxime illo",
+    "authors": [
+      "Magarete Steckel"
+    ],
+    "publisher": "Hauffer Rosenow e.V.",
+    "likes": 6.0,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Similique+dolorum+maxime+illo"
+  },
+  {
+    "index": 241,
+    "isbn": "978-1-86677-732-9",
+    "title": "Accusamus exercitationem soluta vel",
+    "authors": [
+      "Saskia Anders",
+      "Werner Dehmel"
+    ],
+    "publisher": "Mans Junck GmbH",
+    "likes": 5.7,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Accusamus+exercitationem+soluta+vel"
+  },
+  {
+    "index": 242,
+    "isbn": "978-1-5199-5732-0",
+    "title": "Nulla nihil",
+    "authors": [
+      "Alex Koch II",
+      "Hanno Patberg-Gude"
+    ],
+    "publisher": "Käster",
+    "likes": 4.2,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Nulla+nihil"
+  },
+  {
+    "index": 243,
+    "isbn": "978-0-302-37861-8",
+    "title": "Dignissimos quidem fugiat minima",
+    "authors": [
+      "Ariane Thies",
+      "Dr. Björn Sauer B.Sc."
+    ],
+    "publisher": "Schuchhardt",
+    "likes": 5.1,
+    "reviews": [
+      {
+        "author": "Loni Blümel",
+        "text": "Atque ducimus voluptatum facilis hic officia recusandae eligendi. Modi occaecati dicta modi ratione delectus."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Dignissimos+quidem+fugiat+minima"
+  },
+  {
+    "index": 244,
+    "isbn": "978-1-4668-4630-2",
+    "title": "Ullam architecto veritatis dolore voluptatum velit molestias aperiam",
+    "authors": [
+      "Annelie Schuchhardt",
+      "Antonino Hartung"
+    ],
+    "publisher": "Ullrich",
+    "likes": 3.5,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Ullam+architecto+veritatis+dolore+voluptatum+velit+molestias+aperiam"
+  },
+  {
+    "index": 245,
+    "isbn": "978-0-669-73548-2",
+    "title": "Cum occaecati repellat",
+    "authors": [
+      "Prof. Salih Cichorius"
+    ],
+    "publisher": "Jungfer Beier OHG mbH",
+    "likes": 1.6,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Cum+occaecati+repellat"
+  },
+  {
+    "index": 246,
+    "isbn": "978-1-74798-539-3",
+    "title": "Quae facere a architecto qui vero",
+    "authors": [
+      "Galina Rosemann-Hertrampf"
+    ],
+    "publisher": "Köhler",
+    "likes": 5.5,
+    "reviews": [
+      {
+        "author": "Anthony Karz",
+        "text": "Libero quibusdam culpa expedita. Ipsum laudantium illo iure voluptates debitis beatae."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Quae+facere+a+architecto+qui+vero"
+  },
+  {
+    "index": 247,
+    "isbn": "978-0-87080-176-1",
+    "title": "Maxime maxime officia",
+    "authors": [
+      "Therese Drub"
+    ],
+    "publisher": "Losekann Briemer AG & Co. KG",
+    "likes": 3.9,
+    "reviews": [
+      {
+        "author": "Theda Pieper",
+        "text": "Eaque esse sunt reiciendis accusamus. Quidem aut voluptas reiciendis reprehenderit enim."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Maxime+maxime+officia"
+  },
+  {
+    "index": 248,
+    "isbn": "978-0-13-274953-4",
+    "title": "Et facere nemo",
+    "authors": [
+      "Marina Stadelmann"
+    ],
+    "publisher": "Mangold KG",
+    "likes": 4.7,
+    "reviews": [
+      {
+        "author": "Rolf-Peter Staude B.Sc.",
+        "text": "Distinctio reprehenderit quibusdam non. Reprehenderit eveniet suscipit doloremque adipisci."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Et+facere+nemo"
+  },
+  {
+    "index": 249,
+    "isbn": "978-1-998627-39-4",
+    "title": "Aperiam eaque officiis placeat",
+    "authors": [
+      "Enrico Klemt",
+      "Univ.Prof. George Preiß"
+    ],
+    "publisher": "Jüttner Conradi GmbH",
+    "likes": 8.6,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Aperiam+eaque+officiis+placeat"
+  },
+  {
+    "index": 250,
+    "isbn": "978-0-11-686939-5",
+    "title": "Deleniti",
+    "authors": [
+      "Rose-Marie Jäkel"
+    ],
+    "publisher": "Geisel Etzold AG",
+    "likes": 4.3,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Deleniti"
+  },
+  {
+    "index": 251,
+    "isbn": "978-0-509-33657-2",
+    "title": "Cumque",
+    "authors": [
+      "Kristiane Weiß"
+    ],
+    "publisher": "Textor AG",
+    "likes": 2.8,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Cumque"
+  },
+  {
+    "index": 252,
+    "isbn": "978-1-142-88125-2",
+    "title": "Ipsum facere voluptatibus ducimus",
+    "authors": [
+      "Dr. Sieghard Döring",
+      "Gerda Butte"
+    ],
+    "publisher": "Franke Schweitzer AG & Co. KGaA",
+    "likes": 5.6,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Ipsum+facere+voluptatibus+ducimus"
+  },
+  {
+    "index": 253,
+    "isbn": "978-1-287-16899-7",
+    "title": "Aut veniam voluptates dolorum quo possimus",
+    "authors": [
+      "Lieschen Langern",
+      "Ing. Auguste Henk B.Sc."
+    ],
+    "publisher": "Nohlmans Hentschel e.V.",
+    "likes": 8.5,
+    "reviews": [
+      {
+        "author": "Ilhan Salz",
+        "text": "Rerum molestiae recusandae deserunt voluptatem.\nImpedit quod maiores architecto."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Aut+veniam+voluptates+dolorum+quo+possimus"
+  },
+  {
+    "index": 254,
+    "isbn": "978-1-02-065779-5",
+    "title": "Dolorem eius maiores",
+    "authors": [
+      "Dr. Vanessa Bloch",
+      "Univ.Prof. Sigrid Rogner"
+    ],
+    "publisher": "Metz",
+    "likes": 0.6,
+    "reviews": [
+      {
+        "author": "Istvan Schaaf-Wagenknecht",
+        "text": "Exercitationem explicabo nisi possimus accusamus laborum. Rem ullam sequi et eaque eius."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Dolorem+eius+maiores"
+  },
+  {
+    "index": 255,
+    "isbn": "978-1-963882-33-9",
+    "title": "Iste sunt",
+    "authors": [
+      "Alena Lindner B.Sc.",
+      "Ing. Lambert Binner"
+    ],
+    "publisher": "Dowerg",
+    "likes": 2.6,
+    "reviews": [
+      {
+        "author": "Frau Kordula Hellwig B.Eng.",
+        "text": "Nisi possimus earum ducimus ratione. Cum earum cum hic nesciunt. Aliquid tempora qui quaerat fugit sunt at inventore."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Iste+sunt"
+  },
+  {
+    "index": 256,
+    "isbn": "978-1-388-59128-1",
+    "title": "Quia nemo quia itaque quis",
+    "authors": [
+      "Prof. Hans Jürgen Scholtz B.A.",
+      "Valentina Bruder B.A."
+    ],
+    "publisher": "Hartung",
+    "likes": 3.5,
+    "reviews": [
+      {
+        "author": "Alexander Davids",
+        "text": "Nulla culpa et voluptatum totam reprehenderit alias."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Quia+nemo+quia+itaque+quis"
+  },
+  {
+    "index": 257,
+    "isbn": "978-1-114-02832-6",
+    "title": "Sequi amet",
+    "authors": [
+      "Drago Gieß"
+    ],
+    "publisher": "Schuster",
+    "likes": 8.1,
+    "reviews": [
+      {
+        "author": "Cindy Segebahn B.Sc.",
+        "text": "Distinctio blanditiis ipsa molestiae. Voluptatem quae facilis rem nemo neque accusantium."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Sequi+amet"
+  },
+  {
+    "index": 258,
+    "isbn": "978-1-391-69717-8",
+    "title": "Cum amet reprehenderit dicta",
+    "authors": [
+      "Luitgard Kusch B.A.",
+      "Willibald Hiller"
+    ],
+    "publisher": "Kitzmann",
+    "likes": 8.8,
+    "reviews": [
+      {
+        "author": "Francoise Hoffmann-Briemer",
+        "text": "Officiis aperiam perferendis."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Cum+amet+reprehenderit+dicta"
+  },
+  {
+    "index": 259,
+    "isbn": "978-1-55817-497-9",
+    "title": "Vel",
+    "authors": [
+      "Dunja Beckmann"
+    ],
+    "publisher": "Hornig Fritsch KGaA",
+    "likes": 3.2,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Vel"
+  },
+  {
+    "index": 260,
+    "isbn": "978-0-7102-2518-4",
+    "title": "Earum",
+    "authors": [
+      "Hans-Dietrich Gerlach-Gerlach",
+      "Christl Mentzel"
+    ],
+    "publisher": "Atzler",
+    "likes": 4.9,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Earum"
+  },
+  {
+    "index": 261,
+    "isbn": "978-0-7193-0478-1",
+    "title": "Atque illum",
+    "authors": [
+      "Lotti Trüb B.Eng.",
+      "Ing. Justine Kühnert"
+    ],
+    "publisher": "Graf Kostolzin GbR",
+    "likes": 4.3,
+    "reviews": [
+      {
+        "author": "Janna Geisel",
+        "text": "Adipisci accusantium quas adipisci. Ad quisquam nam occaecati sunt. Quod aliquam beatae quos hic quasi."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Atque+illum"
+  },
+  {
+    "index": 262,
+    "isbn": "978-0-18-025000-6",
+    "title": "Voluptas enim quidem dolorem",
+    "authors": [
+      "Prof. Nikola Stey"
+    ],
+    "publisher": "Stolze KG",
+    "likes": 7.2,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Voluptas+enim+quidem+dolorem"
+  },
+  {
+    "index": 263,
+    "isbn": "978-0-257-16259-1",
+    "title": "Quos officia",
+    "authors": [
+      "Eberhardt Geisel",
+      "Marika Boucsein"
+    ],
+    "publisher": "Holt Bolzmann OHG mbH",
+    "likes": 7.9,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Quos+officia"
+  },
+  {
+    "index": 264,
+    "isbn": "978-0-02-748489-2",
+    "title": "Cumque explicabo vitae",
+    "authors": [
+      "Prof. Ayse Lehmann B.Sc."
+    ],
+    "publisher": "Schmidt",
+    "likes": 2.6,
+    "reviews": [
+      {
+        "author": "Janina Niemeier",
+        "text": "Deleniti nisi maiores asperiores natus. Reiciendis perferendis rerum ratione quam rem nisi."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Cumque+explicabo+vitae"
+  },
+  {
+    "index": 265,
+    "isbn": "978-1-327-43167-8",
+    "title": "Nam ad nihil",
+    "authors": [
+      "Waldemar Dörschner"
+    ],
+    "publisher": "Kambs AG & Co. KG",
+    "likes": 0.0,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Nam+ad+nihil"
+  },
+  {
+    "index": 266,
+    "isbn": "978-1-389-84932-9",
+    "title": "Itaque",
+    "authors": [
+      "Hans Dieter Höfig-Dippel"
+    ],
+    "publisher": "Ritter Stiftung & Co. KGaA",
+    "likes": 9.2,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Itaque"
+  },
+  {
+    "index": 267,
+    "isbn": "978-1-9997622-9-2",
+    "title": "Cumque quibusdam",
+    "authors": [
+      "Univ.Prof. Frank-Michael Hartung B.Sc.",
+      "Dipl.-Ing. Britta Drubin B.Eng."
+    ],
+    "publisher": "Dörr GmbH",
+    "likes": 9.6,
+    "reviews": [
+      {
+        "author": "Georgia Ehlert",
+        "text": "Doloribus tempore ratione rem. Aut officia vero praesentium optio ad. Distinctio autem alias ipsam."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Cumque+quibusdam"
+  },
+  {
+    "index": 268,
+    "isbn": "978-1-4480-6825-8",
+    "title": "Dolores unde est",
+    "authors": [
+      "Ahmet Klingelhöfer"
+    ],
+    "publisher": "Hörle GmbH",
+    "likes": 7.4,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Dolores+unde+est"
+  },
+  {
+    "index": 269,
+    "isbn": "978-0-465-55329-7",
+    "title": "Minus",
+    "authors": [
+      "Mirjam Bärer",
+      "Siegrun Höfig"
+    ],
+    "publisher": "Schwital GmbH",
+    "likes": 2.1,
+    "reviews": [
+      {
+        "author": "Ortrun Pärtzelt",
+        "text": "Deserunt nobis velit ipsa magnam. Quos iusto a labore. Deleniti totam consequatur quia culpa vitae et."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Minus"
+  },
+  {
+    "index": 270,
+    "isbn": "978-0-88318-806-4",
+    "title": "Illum optio amet rem",
+    "authors": [
+      "Anett Bloch",
+      "Susana Christoph"
+    ],
+    "publisher": "Löwer Jessel OHG mbH",
+    "likes": 4.2,
+    "reviews": [
+      {
+        "author": "Recep Spieß-Jungfer",
+        "text": "Voluptas a quasi magnam dolorem.\nSaepe nostrum sint pariatur impedit."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Illum+optio+amet+rem"
+  },
+  {
+    "index": 271,
+    "isbn": "978-0-339-08624-1",
+    "title": "Dicta",
+    "authors": [
+      "Ing. Cilli Kitzmann B.A.",
+      "Joseph Sontag B.A."
+    ],
+    "publisher": "Radisch Hofmann AG",
+    "likes": 3.1,
+    "reviews": [
+      {
+        "author": "Oliver Rosenow B.A.",
+        "text": "Quasi adipisci voluptate soluta pariatur itaque. Delectus recusandae explicabo quo."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Dicta"
+  },
+  {
+    "index": 272,
+    "isbn": "978-1-02-892752-4",
+    "title": "Voluptate dolorem ut",
+    "authors": [
+      "Steffen Kühnert"
+    ],
+    "publisher": "Hartung AG",
+    "likes": 6.2,
+    "reviews": [
+      {
+        "author": "Kenneth Oestrovsky",
+        "text": "Eos consequatur molestias cum cum animi. Tempora laboriosam temporibus in eligendi. Ea quis repellat quae ex."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Voluptate+dolorem+ut"
+  },
+  {
+    "index": 273,
+    "isbn": "978-0-7589-1457-6",
+    "title": "Voluptate aliquid facere enim",
+    "authors": [
+      "Marzena Drewes"
+    ],
+    "publisher": "Riehl",
+    "likes": 5.5,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Voluptate+aliquid+facere+enim"
+  },
+  {
+    "index": 274,
+    "isbn": "978-1-942974-01-7",
+    "title": "Eius est",
+    "authors": [
+      "Prof. Mariusz Pieper MBA.",
+      "Ester Hermann"
+    ],
+    "publisher": "Bruder AG & Co. KGaA",
+    "likes": 9.4,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Eius+est"
+  },
+  {
+    "index": 275,
+    "isbn": "978-1-4702-9805-0",
+    "title": "Doloribus qui",
+    "authors": [
+      "Univ.Prof. Ivo Zänker"
+    ],
+    "publisher": "Bähr Gieß GmbH",
+    "likes": 8.5,
+    "reviews": [
+      {
+        "author": "Herr Slavko Stumpf B.A.",
+        "text": "Sed corrupti ipsa delectus ab ut maiores deserunt. Molestias dolorem nobis."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Doloribus+qui"
+  },
+  {
+    "index": 276,
+    "isbn": "978-0-656-41575-5",
+    "title": "Consequuntur rem nihil laborum quod nostrum accusantium",
+    "authors": [
+      "Univ.Prof. Hubertus Sölzer"
+    ],
+    "publisher": "Carsten",
+    "likes": 7.6,
+    "reviews": [
+      {
+        "author": "Univ.Prof. Manfred Neureuther",
+        "text": "Iste temporibus fugiat necessitatibus expedita."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Consequuntur+rem+nihil+laborum+quod+nostrum+accusantium"
+  },
+  {
+    "index": 277,
+    "isbn": "978-0-314-75864-4",
+    "title": "Eligendi mollitia tenetur",
+    "authors": [
+      "Gertraude Mülichen",
+      "Wendelin Keudel-Siering"
+    ],
+    "publisher": "Hermighausen",
+    "likes": 1.6,
+    "reviews": [
+      {
+        "author": "Olena Radisch",
+        "text": "Est minus recusandae iusto omnis deserunt a. Numquam rem autem optio et."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Eligendi+mollitia+tenetur"
+  },
+  {
+    "index": 278,
+    "isbn": "978-0-588-61898-9",
+    "title": "Dolorem",
+    "authors": [
+      "Tillmann Mitschke MBA.",
+      "Gitta Linke"
+    ],
+    "publisher": "Davids Adler KG",
+    "likes": 8.3,
+    "reviews": [
+      {
+        "author": "Brian Dussen van",
+        "text": "Cupiditate at commodi possimus doloremque. Occaecati voluptatibus beatae cumque."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Dolorem"
+  },
+  {
+    "index": 279,
+    "isbn": "978-1-00-153092-5",
+    "title": "Voluptatum sunt illo in",
+    "authors": [
+      "Monica Stoll",
+      "Ron Kade"
+    ],
+    "publisher": "Tintzmann",
+    "likes": 4.2,
+    "reviews": [
+      {
+        "author": "Frau Ida Kroker",
+        "text": "Atque laudantium vero magni minima. Provident asperiores sit dolor aliquam. Vel illum repellendus ut."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Voluptatum+sunt+illo+in"
+  },
+  {
+    "index": 280,
+    "isbn": "978-1-67276-005-8",
+    "title": "Eos ut debitis",
+    "authors": [
+      "Dipl.-Ing. Traugott Lindau",
+      "Christa Loos-Eckbauer"
+    ],
+    "publisher": "Ortmann",
+    "likes": 7.5,
+    "reviews": [
+      {
+        "author": "Hajo Conradi-Löchel",
+        "text": "Qui ab assumenda ad quam recusandae. Libero assumenda non ipsum voluptatibus animi blanditiis."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Eos+ut+debitis"
+  },
+  {
+    "index": 281,
+    "isbn": "978-1-66639-908-0",
+    "title": "Officia debitis a",
+    "authors": [
+      "Rosalia Radisch",
+      "Prof. Jessica Schmiedt B.A."
+    ],
+    "publisher": "Gieß Metz GmbH",
+    "likes": 5.9,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Officia+debitis+a"
+  },
+  {
+    "index": 282,
+    "isbn": "978-1-09-361424-4",
+    "title": "Ex asperiores dolore voluptatibus adipisci",
+    "authors": [
+      "Gerlinde Schuster"
+    ],
+    "publisher": "Heß Stiftung & Co. KG",
+    "likes": 7.9,
+    "reviews": [
+      {
+        "author": "Celal Franke",
+        "text": "Doloribus tempora aut tempore sit. Earum cupiditate dicta illum sequi eligendi dolor."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Ex+asperiores+dolore+voluptatibus+adipisci"
+  },
+  {
+    "index": 283,
+    "isbn": "978-0-597-61933-5",
+    "title": "Placeat dolore magnam",
+    "authors": [
+      "Irmgard Heinrich",
+      "Carina Hölzenbecher B.Eng."
+    ],
+    "publisher": "Eberhardt",
+    "likes": 1.7,
+    "reviews": [
+      {
+        "author": "Thaddäus Weitzel",
+        "text": "Quaerat voluptas quidem. Consequuntur ut officiis enim ut numquam."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Placeat+dolore+magnam"
+  },
+  {
+    "index": 284,
+    "isbn": "978-0-87013-378-7",
+    "title": "Tempora illo",
+    "authors": [
+      "Hildegunde Wirth",
+      "Thorsten Reichmann-Heinrich"
+    ],
+    "publisher": "Kraushaar Ruppersberger GmbH & Co. OHG",
+    "likes": 5.4,
+    "reviews": [
+      {
+        "author": "Anni Schulz",
+        "text": "Totam facere minus fugiat quibusdam. Ab eos laborum dolore esse consectetur ut."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Tempora+illo"
+  },
+  {
+    "index": 285,
+    "isbn": "978-1-348-94952-7",
+    "title": "Repellendus labore",
+    "authors": [
+      "Herr Juergen Köster B.A.",
+      "Jörg-Peter Hübel"
+    ],
+    "publisher": "Werner OHG mbH",
+    "likes": 3.2,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Repellendus+labore"
+  },
+  {
+    "index": 286,
+    "isbn": "978-1-937120-83-2",
+    "title": "Quia",
+    "authors": [
+      "Lorenz Linke-Geißler"
+    ],
+    "publisher": "Buchholz e.G.",
+    "likes": 3.0,
+    "reviews": [
+      {
+        "author": "Dr. Mareike Huhn MBA.",
+        "text": "Blanditiis delectus molestias at."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Quia"
+  },
+  {
+    "index": 287,
+    "isbn": "978-1-4213-3945-0",
+    "title": "Expedita rerum eum nam earum",
+    "authors": [
+      "Heidi Bärer"
+    ],
+    "publisher": "Davids",
+    "likes": 1.1,
+    "reviews": [
+      {
+        "author": "Heinz-Walter Krebs-Schönland",
+        "text": "Optio voluptatem perspiciatis eos. Iste delectus eaque dolorum in maxime nihil. Eveniet quis commodi doloribus dicta."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Expedita+rerum+eum+nam+earum"
+  },
+  {
+    "index": 288,
+    "isbn": "978-0-207-63302-7",
+    "title": "Itaque",
+    "authors": [
+      "Steve Kobelt",
+      "Rigo Weller MBA."
+    ],
+    "publisher": "Preiß Rose e.V.",
+    "likes": 8.8,
+    "reviews": [
+      {
+        "author": "Änne Albers",
+        "text": "Est sunt ex magnam occaecati. Ea debitis aliquid fugiat."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Itaque"
+  },
+  {
+    "index": 289,
+    "isbn": "978-0-312-06370-2",
+    "title": "Itaque minus cumque neque voluptatem eveniet modi",
+    "authors": [
+      "Walli Ziegert-Mende"
+    ],
+    "publisher": "Trommler Hertrampf GbR",
+    "likes": 0.3,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Itaque+minus+cumque+neque+voluptatem+eveniet+modi"
+  },
+  {
+    "index": 290,
+    "isbn": "978-0-306-23032-5",
+    "title": "Voluptatum laudantium nostrum magnam",
+    "authors": [
+      "Diethard Lorch"
+    ],
+    "publisher": "Preiß",
+    "likes": 5.0,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Voluptatum+laudantium+nostrum+magnam"
+  },
+  {
+    "index": 291,
+    "isbn": "978-0-16-709066-3",
+    "title": "Consequuntur modi ab",
+    "authors": [
+      "Wolf Gute-Bloch"
+    ],
+    "publisher": "Wende AG & Co. KG",
+    "likes": 1.8,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Consequuntur+modi+ab"
+  },
+  {
+    "index": 292,
+    "isbn": "978-1-86624-969-7",
+    "title": "Quisquam maiores tenetur vero facilis eveniet magni",
+    "authors": [
+      "Wieslaw Bolzmann-Fechner",
+      "Rosl Finke"
+    ],
+    "publisher": "Caspar AG",
+    "likes": 9.7,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Quisquam+maiores+tenetur+vero+facilis+eveniet+magni"
+  },
+  {
+    "index": 293,
+    "isbn": "978-1-9757-4639-1",
+    "title": "Eum error exercitationem",
+    "authors": [
+      "Liesa Etzold MBA.",
+      "Dipl.-Ing. Meral Weller B.Eng."
+    ],
+    "publisher": "Trapp GmbH",
+    "likes": 4.0,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Eum+error+exercitationem"
+  },
+  {
+    "index": 294,
+    "isbn": "978-1-291-61441-1",
+    "title": "Explicabo minus commodi",
+    "authors": [
+      "Marija Rose B.Eng."
+    ],
+    "publisher": "Roskoth",
+    "likes": 2.7,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Explicabo+minus+commodi"
+  },
+  {
+    "index": 295,
+    "isbn": "978-1-4681-8724-3",
+    "title": "Fugit iste molestias eligendi",
+    "authors": [
+      "Leon Lachmann",
+      "Dr. Friedbert Jacobi Jäckel"
+    ],
+    "publisher": "Hartung GmbH",
+    "likes": 4.2,
+    "reviews": [
+      {
+        "author": "Ludmila Hoffmann MBA.",
+        "text": "Totam quae voluptatem blanditiis repellat. Officiis eaque quidem iusto. Laudantium sint dolore commodi eaque."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Fugit+iste+molestias+eligendi"
+  },
+  {
+    "index": 296,
+    "isbn": "978-0-272-20970-7",
+    "title": "Perspiciatis magni error veniam",
+    "authors": [
+      "Emmi Haase"
+    ],
+    "publisher": "Riehl",
+    "likes": 6.0,
+    "reviews": [
+      {
+        "author": "Rüdiger Röhrdanz MBA.",
+        "text": "Quia modi itaque quas ad sed rem. Fugiat cumque itaque dolorum. Magnam eos ipsum optio maxime.\nAliquam amet recusandae."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Perspiciatis+magni+error+veniam"
+  },
+  {
+    "index": 297,
+    "isbn": "978-0-9987006-3-2",
+    "title": "Laboriosam architecto ut",
+    "authors": [
+      "Heinz-Georg Kuhl"
+    ],
+    "publisher": "Stadelmann Stiftung & Co. KGaA",
+    "likes": 9.3,
+    "reviews": [
+      {
+        "author": "Dragan Kohl",
+        "text": "Nesciunt itaque fuga labore. Cum beatae culpa et labore impedit. Nam neque cum dolores culpa placeat excepturi."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Laboriosam+architecto+ut"
+  },
+  {
+    "index": 298,
+    "isbn": "978-1-09-402212-3",
+    "title": "Possimus culpa",
+    "authors": [
+      "Herr Pero Aumann"
+    ],
+    "publisher": "Biggen",
+    "likes": 2.8,
+    "reviews": [
+      {
+        "author": "Franco Pergande",
+        "text": "Dolorum porro quibusdam quasi cum. Assumenda similique deleniti eius placeat accusantium."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Possimus+culpa"
+  },
+  {
+    "index": 299,
+    "isbn": "978-0-541-05205-8",
+    "title": "Similique labore repudiandae quibusdam",
+    "authors": [
+      "Branka Geißler"
+    ],
+    "publisher": "Ruppersberger",
+    "likes": 7.2,
+    "reviews": [
+      {
+        "author": "Ricarda Roht-Bärer",
+        "text": "Accusantium distinctio praesentium eos magnam facilis fugiat. Amet numquam eveniet quidem incidunt unde."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Similique+labore+repudiandae+quibusdam"
+  },
+  {
+    "index": 300,
+    "isbn": "978-1-05-612846-7",
+    "title": "Culpa a ab",
+    "authors": [
+      "Dr. Ehrenfried Jockel B.A.",
+      "Constanze Ladeck"
+    ],
+    "publisher": "Linke Junitz GmbH",
+    "likes": 6.1,
+    "reviews": [
+      {
+        "author": "Catherine Stiebitz MBA.",
+        "text": "Necessitatibus provident libero eligendi sed. Animi tempore minus ipsam."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Culpa+a+ab"
+  },
+  {
+    "index": 301,
+    "isbn": "978-1-08-240430-6",
+    "title": "Dolores fugit",
+    "authors": [
+      "Mirja Döring"
+    ],
+    "publisher": "Patberg AG",
+    "likes": 1.9,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Dolores+fugit"
+  },
+  {
+    "index": 302,
+    "isbn": "978-1-61532-856-7",
+    "title": "Sit natus atque deleniti",
+    "authors": [
+      "Anne-Kathrin Gierschner-Warmer",
+      "Eric Bloch B.Eng."
+    ],
+    "publisher": "Jacobi Jäckel",
+    "likes": 0.7,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Sit+natus+atque+deleniti"
+  },
+  {
+    "index": 303,
+    "isbn": "978-1-77593-795-1",
+    "title": "Delectus nostrum at ipsam rem",
+    "authors": [
+      "Dipl.-Ing. Ivan Weinhage"
+    ],
+    "publisher": "Löchel Freudenberger OHG mbH",
+    "likes": 8.7,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Delectus+nostrum+at+ipsam+rem"
+  },
+  {
+    "index": 304,
+    "isbn": "978-0-267-97551-8",
+    "title": "Quis eius saepe eum rem",
+    "authors": [
+      "Wieslaw Otto",
+      "Filippo Hornich"
+    ],
+    "publisher": "Rust",
+    "likes": 4.4,
+    "reviews": [
+      {
+        "author": "Heinz-Willi Pölitz-Faust",
+        "text": "Doloremque eveniet repellat similique earum. Harum ut et occaecati hic. Quod officia tempore quidem."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Quis+eius+saepe+eum+rem"
+  },
+  {
+    "index": 305,
+    "isbn": "978-0-389-32391-4",
+    "title": "Est minima",
+    "authors": [
+      "Petros Jüttner B.A."
+    ],
+    "publisher": "Kallert",
+    "likes": 5.1,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Est+minima"
+  },
+  {
+    "index": 306,
+    "isbn": "978-0-14-436605-7",
+    "title": "Reprehenderit fuga molestiae voluptatibus",
+    "authors": [
+      "Ahmet Spieß"
+    ],
+    "publisher": "Kohl GmbH & Co. KG",
+    "likes": 9.1,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Reprehenderit+fuga+molestiae+voluptatibus"
+  },
+  {
+    "index": 307,
+    "isbn": "978-1-75390-585-9",
+    "title": "Commodi doloremque hic accusamus ipsa dolore voluptatum nesciunt",
+    "authors": [
+      "Francoise Hiller"
+    ],
+    "publisher": "Krebs Mangold KG",
+    "likes": 9.8,
+    "reviews": [
+      {
+        "author": "Cilly Flantz B.A.",
+        "text": "Minima molestias laudantium quibusdam consectetur amet amet. Debitis quo sunt aliquam."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Commodi+doloremque+hic+accusamus+ipsa+dolore+voluptatum+nesciunt"
+  },
+  {
+    "index": 308,
+    "isbn": "978-0-06-094322-6",
+    "title": "Beatae atque facere",
+    "authors": [
+      "Edeltrud Döhn B.Eng.",
+      "Gretchen Kensy B.Sc."
+    ],
+    "publisher": "Dehmel GmbH",
+    "likes": 3.6,
+    "reviews": [
+      {
+        "author": "Prof. Michaele Ehlert",
+        "text": "Quod delectus officia architecto cumque quasi. Magni impedit inventore consequuntur."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Beatae+atque+facere"
+  },
+  {
+    "index": 309,
+    "isbn": "978-1-891496-36-3",
+    "title": "Eveniet maxime itaque reiciendis",
+    "authors": [
+      "Helge Hübel MBA."
+    ],
+    "publisher": "van der Dussen GmbH",
+    "likes": 8.9,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Eveniet+maxime+itaque+reiciendis"
+  },
+  {
+    "index": 310,
+    "isbn": "978-0-9906692-4-1",
+    "title": "Earum sed omnis",
+    "authors": [
+      "Prof. Ana Schuchhardt",
+      "Gerold Rose"
+    ],
+    "publisher": "Knappe",
+    "likes": 4.3,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Earum+sed+omnis"
+  },
+  {
+    "index": 311,
+    "isbn": "978-0-8456-0901-9",
+    "title": "Cupiditate dolorum impedit amet quam quo",
+    "authors": [
+      "Holm Riehl",
+      "Oda Hande B.A."
+    ],
+    "publisher": "Ebert",
+    "likes": 7.3,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Cupiditate+dolorum+impedit+amet+quam+quo"
+  },
+  {
+    "index": 312,
+    "isbn": "978-0-376-40112-0",
+    "title": "Molestias voluptatibus",
+    "authors": [
+      "Hans-Herbert Bolnbach",
+      "Kreszentia Eimer B.Eng."
+    ],
+    "publisher": "Kreusel AG",
+    "likes": 8.4,
+    "reviews": [
+      {
+        "author": "Ana Kusch",
+        "text": "Qui possimus distinctio eveniet dignissimos tempora aliquid doloremque. Laboriosam dolores similique aliquam molestiae."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Molestias+voluptatibus"
+  },
+  {
+    "index": 313,
+    "isbn": "978-1-64277-353-8",
+    "title": "Eveniet quos",
+    "authors": [
+      "Lutz Rudolph",
+      "Felizitas Fritsch"
+    ],
+    "publisher": "Neuschäfer Flantz AG & Co. KGaA",
+    "likes": 2.0,
+    "reviews": [
+      {
+        "author": "Sandro Jäntsch B.Sc.",
+        "text": "Aperiam quasi veritatis totam similique. Eos illum nobis rerum. Voluptate eaque soluta ea natus."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Eveniet+quos"
+  },
+  {
+    "index": 314,
+    "isbn": "978-1-66139-534-6",
+    "title": "Eos quam commodi",
+    "authors": [
+      "Ioannis Neuschäfer"
+    ],
+    "publisher": "Eigenwillig Naser AG & Co. KG",
+    "likes": 9.9,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Eos+quam+commodi"
+  },
+  {
+    "index": 315,
+    "isbn": "978-0-7425-5537-2",
+    "title": "Quam non veritatis aliquid cumque quisquam",
+    "authors": [
+      "Hans-Bernd Schaaf",
+      "Frau Anika Heinrich B.Sc."
+    ],
+    "publisher": "Budig Drubin Stiftung & Co. KGaA",
+    "likes": 8.6,
+    "reviews": [
+      {
+        "author": "Rafael Hornig",
+        "text": "Accusamus et asperiores nemo fuga. Dolor neque architecto labore. Dolor placeat voluptatem error nisi."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Quam+non+veritatis+aliquid+cumque+quisquam"
+  },
+  {
+    "index": 316,
+    "isbn": "978-1-81767-321-2",
+    "title": "Ipsum perspiciatis ipsam animi odio eaque",
+    "authors": [
+      "Eleonora Thies"
+    ],
+    "publisher": "Metz",
+    "likes": 1.0,
+    "reviews": [
+      {
+        "author": "Ralf Eimer",
+        "text": "Quasi minima sequi quia commodi enim iste. Dolor consequuntur adipisci reprehenderit ipsam."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Ipsum+perspiciatis+ipsam+animi+odio+eaque"
+  },
+  {
+    "index": 317,
+    "isbn": "978-1-5017-8760-7",
+    "title": "Omnis repudiandae ad",
+    "authors": [
+      "Bert Bonbach",
+      "Gesa Geißler MBA."
+    ],
+    "publisher": "Mohaupt Klingelhöfer AG",
+    "likes": 9.4,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Omnis+repudiandae+ad"
+  },
+  {
+    "index": 318,
+    "isbn": "978-1-07-658743-5",
+    "title": "Excepturi autem alias",
+    "authors": [
+      "Franka Weitzel",
+      "Esther Krause"
+    ],
+    "publisher": "Seifert Staude Stiftung & Co. KGaA",
+    "likes": 8.9,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Excepturi+autem+alias"
+  },
+  {
+    "index": 319,
+    "isbn": "978-1-883631-47-5",
+    "title": "Nostrum explicabo consequatur",
+    "authors": [
+      "Univ.Prof. Angelique Roskoth",
+      "Erkan Geisler"
+    ],
+    "publisher": "Wähner GmbH & Co. KG",
+    "likes": 6.7,
+    "reviews": [
+      {
+        "author": "Edelbert Kambs B.A.",
+        "text": "Recusandae eligendi nesciunt. Voluptates quas totam atque velit adipisci incidunt."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Nostrum+explicabo+consequatur"
+  },
+  {
+    "index": 320,
+    "isbn": "978-1-938946-24-0",
+    "title": "Reiciendis magni natus ullam maiores ducimus nostrum",
+    "authors": [
+      "Sibel Caspar"
+    ],
+    "publisher": "Drubin Etzler KG",
+    "likes": 5.5,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Reiciendis+magni+natus+ullam+maiores+ducimus+nostrum"
+  },
+  {
+    "index": 321,
+    "isbn": "978-0-11-809274-6",
+    "title": "Quia",
+    "authors": [
+      "Hildegart Hermann",
+      "Prof. Meik Heinrich"
+    ],
+    "publisher": "Höfig",
+    "likes": 8.9,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Quia"
+  },
+  {
+    "index": 322,
+    "isbn": "978-0-14-266105-5",
+    "title": "Doloremque beatae placeat est quasi",
+    "authors": [
+      "Reinhild Bolnbach",
+      "Björn Cichorius"
+    ],
+    "publisher": "Junk Liebelt OHG mbH",
+    "likes": 9.4,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Doloremque+beatae+placeat+est+quasi"
+  },
+  {
+    "index": 323,
+    "isbn": "978-0-556-46457-0",
+    "title": "Maiores similique",
+    "authors": [
+      "Juliane Beyer"
+    ],
+    "publisher": "Segebahn GmbH",
+    "likes": 4.1,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Maiores+similique"
+  },
+  {
+    "index": 324,
+    "isbn": "978-0-362-03937-5",
+    "title": "Eaque vel sit voluptatem odio accusantium",
+    "authors": [
+      "Ilonka Klotz",
+      "Dipl.-Ing. Marina Anders B.Sc."
+    ],
+    "publisher": "Anders",
+    "likes": 5.4,
+    "reviews": [
+      {
+        "author": "Caroline Dehmel",
+        "text": "Laborum nulla quod. Non neque sequi amet.\nOdit ratione nostrum in rerum sapiente unde. Tempore dolore esse tempora."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Eaque+vel+sit+voluptatem+odio+accusantium"
+  },
+  {
+    "index": 325,
+    "isbn": "978-1-4020-8133-0",
+    "title": "Enim excepturi",
+    "authors": [
+      "Hansgeorg Söding"
+    ],
+    "publisher": "Radisch GmbH & Co. OHG",
+    "likes": 1.9,
+    "reviews": [
+      {
+        "author": "Walentina Tlustek",
+        "text": "Saepe quos enim aliquid. Maxime molestiae earum. In laboriosam dolore sed amet sit praesentium."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Enim+excepturi"
+  },
+  {
+    "index": 326,
+    "isbn": "978-1-59060-988-0",
+    "title": "Quae illo iste asperiores",
+    "authors": [
+      "Univ.Prof. Holm Junitz",
+      "Mathilde Schmiedecke"
+    ],
+    "publisher": "Lindau",
+    "likes": 2.5,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Quae+illo+iste+asperiores"
+  },
+  {
+    "index": 327,
+    "isbn": "978-0-689-01537-3",
+    "title": "Eius numquam",
+    "authors": [
+      "Dipl.-Ing. Eleni Beyer",
+      "Marvin Wähner"
+    ],
+    "publisher": "Scheibe Stiftung & Co. KG",
+    "likes": 5.2,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Eius+numquam"
+  },
+  {
+    "index": 328,
+    "isbn": "978-1-4933-5468-9",
+    "title": "In at",
+    "authors": [
+      "Wieland Wähner-Gumprich",
+      "Michail Boucsein"
+    ],
+    "publisher": "Faust",
+    "likes": 2.4,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=In+at"
+  },
+  {
+    "index": 329,
+    "isbn": "978-1-899417-41-4",
+    "title": "Nam dolorum corporis dolor officiis",
+    "authors": [
+      "Carl-Heinz Junk",
+      "Prof. Nancy Pergande"
+    ],
+    "publisher": "Schottin Stiftung & Co. KGaA",
+    "likes": 5.8,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Nam+dolorum+corporis+dolor+officiis"
+  },
+  {
+    "index": 330,
+    "isbn": "978-1-02-189517-2",
+    "title": "Architecto unde laboriosam",
+    "authors": [
+      "Slavica Käster"
+    ],
+    "publisher": "Junck AG",
+    "likes": 2.1,
+    "reviews": [
+      {
+        "author": "Janet Gumprich",
+        "text": "Iusto eos beatae rem quidem ad. Quibusdam quaerat sed quaerat consectetur vel natus. Facere sunt natus."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Architecto+unde+laboriosam"
+  },
+  {
+    "index": 331,
+    "isbn": "978-1-60126-001-7",
+    "title": "Quas eos sint officiis cum aliquid",
+    "authors": [
+      "Albin Mühle",
+      "Dr. Liesa Bauer"
+    ],
+    "publisher": "Rosemann Säuberlich GmbH",
+    "likes": 7.8,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Quas+eos+sint+officiis+cum+aliquid"
+  },
+  {
+    "index": 332,
+    "isbn": "978-1-00-097341-9",
+    "title": "Cupiditate est",
+    "authors": [
+      "Walfried Mühle-Hartmann"
+    ],
+    "publisher": "Henck GmbH & Co. OHG",
+    "likes": 9.9,
+    "reviews": [
+      {
+        "author": "Sieghard Nerger",
+        "text": "Repellat libero magni consectetur facere. Sunt ullam odio amet magnam harum."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Cupiditate+est"
+  },
+  {
+    "index": 333,
+    "isbn": "978-0-17-740535-8",
+    "title": "Nam commodi corporis",
+    "authors": [
+      "Maxim Fiebig"
+    ],
+    "publisher": "Junken Hahn KG",
+    "likes": 8.8,
+    "reviews": [
+      {
+        "author": "Prof. Enver Tintzmann",
+        "text": "Rem omnis totam autem itaque aspernatur. Numquam ab eaque."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Nam+commodi+corporis"
+  },
+  {
+    "index": 334,
+    "isbn": "978-0-220-75411-2",
+    "title": "Culpa eos",
+    "authors": [
+      "Folker Täsche"
+    ],
+    "publisher": "Walter Wagenknecht Stiftung & Co. KG",
+    "likes": 6.0,
+    "reviews": [
+      {
+        "author": "Lilly Budig-Ackermann",
+        "text": "Dicta quasi maiores. Hic quisquam pariatur ex dicta odio voluptates. Debitis provident sequi in deserunt quod."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Culpa+eos"
+  },
+  {
+    "index": 335,
+    "isbn": "978-0-557-61155-3",
+    "title": "Neque nulla maxime nobis architecto",
+    "authors": [
+      "Aysel Etzold B.Sc."
+    ],
+    "publisher": "Fischer GmbH & Co. KG",
+    "likes": 1.5,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Neque+nulla+maxime+nobis+architecto"
+  },
+  {
+    "index": 336,
+    "isbn": "978-1-109-98750-8",
+    "title": "Maxime dolorum velit",
+    "authors": [
+      "Gundula Eimer"
+    ],
+    "publisher": "Hornich Budig KG",
+    "likes": 6.3,
+    "reviews": [
+      {
+        "author": "Abdul Bloch",
+        "text": "Ex vitae ipsa provident nemo hic quisquam. Corrupti fugit ipsum quam. Quos cum laudantium vel animi sunt tempora iste."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Maxime+dolorum+velit"
+  },
+  {
+    "index": 337,
+    "isbn": "978-0-455-01582-8",
+    "title": "Placeat itaque quae ipsa eum aut",
+    "authors": [
+      "Hassan Hoffmann"
+    ],
+    "publisher": "Ortmann OHG mbH",
+    "likes": 2.0,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Placeat+itaque+quae+ipsa+eum+aut"
+  },
+  {
+    "index": 338,
+    "isbn": "978-0-366-17846-9",
+    "title": "At tempore minima voluptatibus quasi",
+    "authors": [
+      "Daniel Misicher"
+    ],
+    "publisher": "Langern",
+    "likes": 1.2,
+    "reviews": [
+      {
+        "author": "Siegried Bolander-Bolzmann",
+        "text": "Impedit nesciunt corrupti modi. Enim officia corrupti natus."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=At+tempore+minima+voluptatibus+quasi"
+  },
+  {
+    "index": 339,
+    "isbn": "978-0-7237-3487-1",
+    "title": "Harum blanditiis veritatis",
+    "authors": [
+      "Kornelia Spieß",
+      "Dr. Günter Scholl"
+    ],
+    "publisher": "Schmidtke",
+    "likes": 0.2,
+    "reviews": [
+      {
+        "author": "Georgios Knappe-Jacob",
+        "text": "Temporibus repellendus cumque praesentium rem. Natus maiores animi saepe est nobis in cum."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Harum+blanditiis+veritatis"
+  },
+  {
+    "index": 340,
+    "isbn": "978-0-9706225-8-7",
+    "title": "Sit laborum molestias itaque aliquam rem amet",
+    "authors": [
+      "Univ.Prof. Josephine Trommler"
+    ],
+    "publisher": "Losekann KGaA",
+    "likes": 2.3,
+    "reviews": [
+      {
+        "author": "Sven Albers-Budig",
+        "text": "Asperiores itaque doloremque ratione eligendi. Atque enim eius ea provident deserunt."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Sit+laborum+molestias+itaque+aliquam+rem+amet"
+  },
+  {
+    "index": 341,
+    "isbn": "978-0-8330-0496-3",
+    "title": "Exercitationem voluptatem libero modi laboriosam",
+    "authors": [
+      "Claas Klapp B.A."
+    ],
+    "publisher": "Winkler Etzold AG & Co. OHG",
+    "likes": 1.1,
+    "reviews": [
+      {
+        "author": "Regina Blümel",
+        "text": "Nostrum eligendi quae.\nAdipisci a optio laboriosam asperiores non dicta. Iure minus aliquam dolore."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Exercitationem+voluptatem+libero+modi+laboriosam"
+  },
+  {
+    "index": 342,
+    "isbn": "978-1-215-30031-4",
+    "title": "Ipsa vero ducimus fugiat",
+    "authors": [
+      "Resi Wirth",
+      "Ottokar Paffrath"
+    ],
+    "publisher": "Eberhardt Huhn Stiftung & Co. KGaA",
+    "likes": 8.7,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Ipsa+vero+ducimus+fugiat"
+  },
+  {
+    "index": 343,
+    "isbn": "978-0-917961-92-2",
+    "title": "Occaecati dolor incidunt libero",
+    "authors": [
+      "Ing. Svenja Hänel",
+      "Witold Heuser"
+    ],
+    "publisher": "Stadelmann Wähner GmbH",
+    "likes": 8.3,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Occaecati+dolor+incidunt+libero"
+  },
+  {
+    "index": 344,
+    "isbn": "978-0-560-32947-6",
+    "title": "Velit sed labore fugit molestias rem quibusdam",
+    "authors": [
+      "Herr Wolf-Dieter Adler B.Eng.",
+      "Edeltraut Speer"
+    ],
+    "publisher": "Knappe Nette GbR",
+    "likes": 1.4,
+    "reviews": [
+      {
+        "author": "Frau Stefania Heydrich B.A.",
+        "text": "Nulla facilis quo beatae. Cumque dolorum totam reprehenderit recusandae."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Velit+sed+labore+fugit+molestias+rem+quibusdam"
+  },
+  {
+    "index": 345,
+    "isbn": "978-0-446-42793-7",
+    "title": "Possimus reiciendis",
+    "authors": [
+      "Nelly Seidel B.Sc.",
+      "Hans-Jörg Zahn"
+    ],
+    "publisher": "Werner Rohleder Stiftung & Co. KGaA",
+    "likes": 2.8,
+    "reviews": [
+      {
+        "author": "Harm Schleich-Baum",
+        "text": "Aliquam eaque exercitationem quibusdam vitae. Neque molestiae alias asperiores."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Possimus+reiciendis"
+  },
+  {
+    "index": 346,
+    "isbn": "978-1-09-408696-5",
+    "title": "Eius voluptate recusandae",
+    "authors": [
+      "Heinz-Georg Schleich",
+      "Freddy Jopich B.Sc."
+    ],
+    "publisher": "Vollbrecht AG",
+    "likes": 6.0,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Eius+voluptate+recusandae"
+  },
+  {
+    "index": 347,
+    "isbn": "978-0-9720055-4-8",
+    "title": "Voluptates distinctio quos consequatur illo",
+    "authors": [
+      "Stella Karge",
+      "Petra Freudenberger-Niemeier"
+    ],
+    "publisher": "Wilmsen AG & Co. KG",
+    "likes": 2.2,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Voluptates+distinctio+quos+consequatur+illo"
+  },
+  {
+    "index": 348,
+    "isbn": "978-1-79445-811-6",
+    "title": "Temporibus omnis ipsum",
+    "authors": [
+      "Selim Heinz",
+      "Alfredo Adler"
+    ],
+    "publisher": "Jungfer GmbH",
+    "likes": 7.4,
+    "reviews": [
+      {
+        "author": "Philippe Hövel",
+        "text": "Recusandae quaerat perferendis. Dolorum laboriosam dolorum ipsa dolores quia occaecati."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Temporibus+omnis+ipsum"
+  },
+  {
+    "index": 349,
+    "isbn": "978-0-547-34790-5",
+    "title": "Natus voluptate debitis commodi",
+    "authors": [
+      "Herr Kenan Beer"
+    ],
+    "publisher": "Adolph AG & Co. KG",
+    "likes": 5.1,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Natus+voluptate+debitis+commodi"
+  },
+  {
+    "index": 350,
+    "isbn": "978-0-17-703903-4",
+    "title": "Illum iusto saepe voluptatibus atque nobis ipsum provident",
+    "authors": [
+      "Yasemin Scholz",
+      "Rosalinde Rohleder"
+    ],
+    "publisher": "Hamann",
+    "likes": 0.0,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Illum+iusto+saepe+voluptatibus+atque+nobis+ipsum+provident"
+  },
+  {
+    "index": 351,
+    "isbn": "978-0-599-09014-9",
+    "title": "Laboriosam repellat",
+    "authors": [
+      "Gerald Hübel-Börner",
+      "Rosa Klemm B.A."
+    ],
+    "publisher": "Ebert Dietz AG",
+    "likes": 6.3,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Laboriosam+repellat"
+  },
+  {
+    "index": 352,
+    "isbn": "978-0-7942-0383-2",
+    "title": "Labore modi explicabo velit vel possimus animi labore",
+    "authors": [
+      "Thea Wagenknecht"
+    ],
+    "publisher": "Schweitzer AG & Co. KG",
+    "likes": 6.2,
+    "reviews": [
+      {
+        "author": "Prof. Gabriele Kühnert B.Eng.",
+        "text": "Voluptates itaque libero nostrum. Expedita cumque illum vero."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Labore+modi+explicabo+velit+vel+possimus+animi+labore"
+  },
+  {
+    "index": 353,
+    "isbn": "978-1-909157-15-6",
+    "title": "Fuga ea",
+    "authors": [
+      "Sönke Lorch"
+    ],
+    "publisher": "Hölzenbecher Stiftung & Co. KGaA",
+    "likes": 3.5,
+    "reviews": [
+      {
+        "author": "Heinz Dieter Stoll",
+        "text": "Omnis veniam ab saepe. Cum iste odit possimus."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Fuga+ea"
+  },
+  {
+    "index": 354,
+    "isbn": "978-0-89002-721-9",
+    "title": "Ut aliquam beatae fuga est",
+    "authors": [
+      "Univ.Prof. Monica Peukert"
+    ],
+    "publisher": "Scholtz AG",
+    "likes": 8.2,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Ut+aliquam+beatae+fuga+est"
+  },
+  {
+    "index": 355,
+    "isbn": "978-1-4779-6855-0",
+    "title": "Sapiente corrupti",
+    "authors": [
+      "Simona Kreusel"
+    ],
+    "publisher": "Trupp",
+    "likes": 1.0,
+    "reviews": [
+      {
+        "author": "Meinhard Weller",
+        "text": "Numquam quas ducimus molestiae. Similique quos molestias. Inventore nihil saepe cum iure esse."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Sapiente+corrupti"
+  },
+  {
+    "index": 356,
+    "isbn": "978-0-244-85723-3",
+    "title": "Fugit",
+    "authors": [
+      "Inka Schlosser",
+      "Frau Janet Gorlitz"
+    ],
+    "publisher": "Thies",
+    "likes": 7.4,
+    "reviews": [
+      {
+        "author": "Bartholomäus Hecker MBA.",
+        "text": "Magni hic at. Odio saepe ut similique. Repudiandae nemo quisquam eius."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Fugit"
+  },
+  {
+    "index": 357,
+    "isbn": "978-0-04-834370-3",
+    "title": "Dolorum esse cum",
+    "authors": [
+      "Univ.Prof. Louise Kramer"
+    ],
+    "publisher": "Koch GmbH",
+    "likes": 7.3,
+    "reviews": [
+      {
+        "author": "Herr Constantin Lachmann",
+        "text": "Ea nisi quia excepturi itaque deleniti explicabo. Veritatis reiciendis ipsa commodi laudantium."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Dolorum+esse+cum"
+  },
+  {
+    "index": 358,
+    "isbn": "978-0-922176-81-6",
+    "title": "Adipisci consequuntur",
+    "authors": [
+      "Univ.Prof. Melanie Kostolzin",
+      "Grete Holzapfel-Weihmann"
+    ],
+    "publisher": "Bachmann Haering e.V.",
+    "likes": 0.3,
+    "reviews": [
+      {
+        "author": "Elmar Zänker MBA.",
+        "text": "Eaque sunt fugit ipsam expedita voluptatibus ducimus. Porro atque autem."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Adipisci+consequuntur"
+  },
+  {
+    "index": 359,
+    "isbn": "978-1-5074-9922-1",
+    "title": "Iste hic eum alias",
+    "authors": [
+      "Dorothee auch Schlauchin",
+      "Michaele Bachmann"
+    ],
+    "publisher": "Zimmer",
+    "likes": 9.6,
+    "reviews": [
+      {
+        "author": "Claudius Seip",
+        "text": "Ex fuga esse exercitationem iste odio beatae debitis. Molestiae doloribus consequuntur distinctio."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Iste+hic+eum+alias"
+  },
+  {
+    "index": 360,
+    "isbn": "978-1-286-54228-6",
+    "title": "Quam fuga nostrum",
+    "authors": [
+      "Erwin Beckmann",
+      "Meinrad Klotz"
+    ],
+    "publisher": "Schuster Davids OHG mbH",
+    "likes": 8.8,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Quam+fuga+nostrum"
+  },
+  {
+    "index": 361,
+    "isbn": "978-1-77216-191-5",
+    "title": "Distinctio voluptates",
+    "authors": [
+      "Dipl.-Ing. Martina Steinberg",
+      "Prof. Valerij Warmer"
+    ],
+    "publisher": "Bohnbach",
+    "likes": 1.6,
+    "reviews": [
+      {
+        "author": "Dr. Elena Wohlgemut",
+        "text": "Repellat voluptas vero facere. Consequatur sunt quam officia error repellendus."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Distinctio+voluptates"
+  },
+  {
+    "index": 362,
+    "isbn": "978-1-4110-5711-1",
+    "title": "Molestias hic",
+    "authors": [
+      "Alan Kruschwitz",
+      "Hans-Eberhard Johann"
+    ],
+    "publisher": "Huhn Gumprich GmbH",
+    "likes": 3.6,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Molestias+hic"
+  },
+  {
+    "index": 363,
+    "isbn": "978-0-577-34138-6",
+    "title": "Consectetur",
+    "authors": [
+      "Andrew Kostolzin"
+    ],
+    "publisher": "Wieloch Budig GmbH & Co. KG",
+    "likes": 2.3,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Consectetur"
+  },
+  {
+    "index": 364,
+    "isbn": "978-1-5166-6105-3",
+    "title": "Nesciunt consequatur",
+    "authors": [
+      "Herta Döhn",
+      "Marius Süßebier"
+    ],
+    "publisher": "Söding KG",
+    "likes": 2.9,
+    "reviews": [
+      {
+        "author": "Athanasios Hornig",
+        "text": "Quae aliquam quibusdam quod dolorem in. Commodi corporis architecto omnis beatae perspiciatis accusamus."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Nesciunt+consequatur"
+  },
+  {
+    "index": 365,
+    "isbn": "978-0-7616-2426-4",
+    "title": "Ea tempora id sunt iste cumque",
+    "authors": [
+      "Heinz-Josef Ehlert",
+      "Annelene Scholz-Hethur"
+    ],
+    "publisher": "Austermühle",
+    "likes": 1.1,
+    "reviews": [
+      {
+        "author": "Dorit Jopich",
+        "text": "Similique corrupti dolorum cum veniam reprehenderit sequi. Exercitationem nisi facere ullam."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Ea+tempora+id+sunt+iste+cumque"
+  },
+  {
+    "index": 366,
+    "isbn": "978-1-82926-689-1",
+    "title": "Architecto",
+    "authors": [
+      "Prof. Albina Wagner B.A.",
+      "Lieschen Pieper"
+    ],
+    "publisher": "Gute Trommler GmbH",
+    "likes": 7.2,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Architecto"
+  },
+  {
+    "index": 367,
+    "isbn": "978-0-450-52375-5",
+    "title": "Perferendis",
+    "authors": [
+      "Ekkehart Speer"
+    ],
+    "publisher": "Langern Scheibe GmbH & Co. KG",
+    "likes": 0.1,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Perferendis"
+  },
+  {
+    "index": 368,
+    "isbn": "978-0-8267-8723-1",
+    "title": "Aliquam dolor facere laborum adipisci delectus",
+    "authors": [
+      "Nikola Kraushaar",
+      "Camilla Käster"
+    ],
+    "publisher": "Krein",
+    "likes": 3.8,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Aliquam+dolor+facere+laborum+adipisci+delectus"
+  },
+  {
+    "index": 369,
+    "isbn": "978-1-85698-109-5",
+    "title": "Libero nam tempore facilis sunt",
+    "authors": [
+      "Marcel Döring"
+    ],
+    "publisher": "Otto",
+    "likes": 0.5,
+    "reviews": [
+      {
+        "author": "Gerhard Wagner",
+        "text": "Beatae rem modi. Dolore magnam minus laboriosam maiores quod ut. Libero fuga nam ab dolor."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Libero+nam+tempore+facilis+sunt"
+  },
+  {
+    "index": 370,
+    "isbn": "978-1-4378-6288-1",
+    "title": "Facilis commodi commodi",
+    "authors": [
+      "Eckhart Wende"
+    ],
+    "publisher": "Meyer",
+    "likes": 2.4,
+    "reviews": [
+      {
+        "author": "Renate Gerlach MBA.",
+        "text": "Sapiente magni a consequatur.\nTempora dicta temporibus nihil corporis vel. Modi rerum temporibus beatae."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Facilis+commodi+commodi"
+  },
+  {
+    "index": 371,
+    "isbn": "978-1-01-850167-3",
+    "title": "Rem quo veniam",
+    "authors": [
+      "Ing. Karoline Junk",
+      "Romana Kuhl"
+    ],
+    "publisher": "Kambs GmbH",
+    "likes": 3.0,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Rem+quo+veniam"
+  },
+  {
+    "index": 372,
+    "isbn": "978-0-466-86801-7",
+    "title": "Dolorem eos alias",
+    "authors": [
+      "Fatma Hartmann",
+      "Monica Sager B.A."
+    ],
+    "publisher": "Schönland",
+    "likes": 7.5,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Dolorem+eos+alias"
+  },
+  {
+    "index": 373,
+    "isbn": "978-0-217-26313-9",
+    "title": "Quisquam nihil dolores incidunt hic",
+    "authors": [
+      "Henry Tröst",
+      "Brigitta Pärtzelt"
+    ],
+    "publisher": "Junck",
+    "likes": 3.5,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Quisquam+nihil+dolores+incidunt+hic"
+  },
+  {
+    "index": 374,
+    "isbn": "978-1-152-52723-2",
+    "title": "Voluptate deserunt quas labore",
+    "authors": [
+      "Marlies Meyer"
+    ],
+    "publisher": "Naser GbR",
+    "likes": 7.9,
+    "reviews": [
+      {
+        "author": "Rosemarie Bolnbach B.Eng.",
+        "text": "Odit aut et facere accusamus. Officia consequuntur nulla assumenda."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Voluptate+deserunt+quas+labore"
+  },
+  {
+    "index": 375,
+    "isbn": "978-1-68104-118-6",
+    "title": "Quia mollitia",
+    "authors": [
+      "Herr Ibrahim Davids"
+    ],
+    "publisher": "Beer AG",
+    "likes": 0.5,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Quia+mollitia"
+  },
+  {
+    "index": 376,
+    "isbn": "978-0-903314-56-5",
+    "title": "Sint aut velit quam praesentium",
+    "authors": [
+      "Ing. Waltraut Schmidt"
+    ],
+    "publisher": "Siering",
+    "likes": 6.9,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Sint+aut+velit+quam+praesentium"
+  },
+  {
+    "index": 377,
+    "isbn": "978-0-902136-01-4",
+    "title": "Porro dicta",
+    "authors": [
+      "Andreas Huhn B.Sc."
+    ],
+    "publisher": "Jüttner Zänker GmbH",
+    "likes": 7.8,
+    "reviews": [
+      {
+        "author": "Ing. Heinz-Werner Geißler MBA.",
+        "text": "Temporibus saepe explicabo. Earum et placeat commodi nisi occaecati praesentium. Neque voluptate quam quas illum illo."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Porro+dicta"
+  },
+  {
+    "index": 378,
+    "isbn": "978-1-80860-012-8",
+    "title": "Dignissimos nesciunt commodi",
+    "authors": [
+      "Henny Schweitzer",
+      "Emilia Oderwald"
+    ],
+    "publisher": "Sontag Lachmann GbR",
+    "likes": 0.8,
+    "reviews": [
+      {
+        "author": "Steve Stiffel",
+        "text": "Assumenda saepe ducimus non aperiam repudiandae soluta. Quos aut modi beatae dolor quos nemo quae. Quasi illum tenetur."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Dignissimos+nesciunt+commodi"
+  },
+  {
+    "index": 379,
+    "isbn": "978-1-922785-02-2",
+    "title": "Optio impedit fugiat",
+    "authors": [
+      "Prof. Emanuel Bolnbach",
+      "Univ.Prof. Aysel Gorlitz MBA."
+    ],
+    "publisher": "Werner",
+    "likes": 9.5,
+    "reviews": [
+      {
+        "author": "Frau Dunja Birnbaum B.A.",
+        "text": "Sapiente tempore fuga ducimus. At aspernatur dicta aliquid voluptates odit necessitatibus."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Optio+impedit+fugiat"
+  },
+  {
+    "index": 380,
+    "isbn": "978-0-424-39573-9",
+    "title": "Quisquam voluptatem iure optio nemo",
+    "authors": [
+      "Annelore Pölitz"
+    ],
+    "publisher": "Hänel Stiftung & Co. KG",
+    "likes": 5.2,
+    "reviews": [
+      {
+        "author": "Klaus-Günter Geisler B.Sc.",
+        "text": "Eum cupiditate sequi harum reprehenderit officia delectus. Dignissimos cumque eos rerum dolorum enim quam."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Quisquam+voluptatem+iure+optio+nemo"
+  },
+  {
+    "index": 381,
+    "isbn": "978-0-09-618955-1",
+    "title": "Eum odit ad soluta ex",
+    "authors": [
+      "Viktoria Hornig",
+      "Pierre Börner-Ruppersberger"
+    ],
+    "publisher": "Lachmann Schleich e.G.",
+    "likes": 8.5,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Eum+odit+ad+soluta+ex"
+  },
+  {
+    "index": 382,
+    "isbn": "978-0-619-69119-6",
+    "title": "Nisi mollitia",
+    "authors": [
+      "Janko Reinhardt"
+    ],
+    "publisher": "Schwital",
+    "likes": 2.0,
+    "reviews": [
+      {
+        "author": "Karl-Friedrich Stey",
+        "text": "Id quasi modi delectus dolores. Iure fugiat voluptatum dolores suscipit."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Nisi+mollitia"
+  },
+  {
+    "index": 383,
+    "isbn": "978-0-489-17556-7",
+    "title": "Distinctio maxime sequi maiores",
+    "authors": [
+      "Christin Hesse",
+      "Dipl.-Ing. Annelene auch Schlauchin"
+    ],
+    "publisher": "Hoffmann",
+    "likes": 3.2,
+    "reviews": [
+      {
+        "author": "Ilonka Putz",
+        "text": "Occaecati laborum quas expedita. Eos tempore magnam cupiditate non. Deleniti officia quod nesciunt eveniet facilis."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Distinctio+maxime+sequi+maiores"
+  },
+  {
+    "index": 384,
+    "isbn": "978-0-346-63433-6",
+    "title": "Nihil ab culpa fuga aliquam",
+    "authors": [
+      "Frau Donata Nohlmans B.Sc.",
+      "Viktor Klemt"
+    ],
+    "publisher": "Trüb",
+    "likes": 4.6,
+    "reviews": [
+      {
+        "author": "Johan Wieloch",
+        "text": "Dolorem laborum inventore. Blanditiis facere facere modi voluptatem cupiditate totam."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Nihil+ab+culpa+fuga+aliquam"
+  },
+  {
+    "index": 385,
+    "isbn": "978-0-550-54740-8",
+    "title": "Illo odio nisi",
+    "authors": [
+      "Nicole Hörle B.Sc."
+    ],
+    "publisher": "Hofmann GbR",
+    "likes": 4.6,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Illo+odio+nisi"
+  },
+  {
+    "index": 386,
+    "isbn": "978-0-479-28214-5",
+    "title": "Ab debitis modi",
+    "authors": [
+      "Prof. Paulina Jüttner",
+      "Meik Hornich"
+    ],
+    "publisher": "Heidrich GmbH",
+    "likes": 6.0,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Ab+debitis+modi"
+  },
+  {
+    "index": 387,
+    "isbn": "978-1-229-16982-2",
+    "title": "Minima enim",
+    "authors": [
+      "Hans-Dieter Bonbach"
+    ],
+    "publisher": "Hamann Müller GmbH & Co. KG",
+    "likes": 5.9,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Minima+enim"
+  },
+  {
+    "index": 388,
+    "isbn": "978-0-538-00200-4",
+    "title": "Impedit sit error",
+    "authors": [
+      "Nadeschda Klapp-Dietz"
+    ],
+    "publisher": "Christoph GmbH & Co. KGaA",
+    "likes": 3.9,
+    "reviews": [
+      {
+        "author": "Kunigunda Hande",
+        "text": "Totam laboriosam deserunt tenetur perferendis. Incidunt alias modi inventore harum et voluptatem."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Impedit+sit+error"
+  },
+  {
+    "index": 389,
+    "isbn": "978-0-8154-4160-1",
+    "title": "Voluptates voluptatum",
+    "authors": [
+      "Jacob Weitzel",
+      "Elias Römer B.Eng."
+    ],
+    "publisher": "Bauer",
+    "likes": 1.7,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Voluptates+voluptatum"
+  },
+  {
+    "index": 390,
+    "isbn": "978-1-62334-149-7",
+    "title": "Voluptates suscipit delectus",
+    "authors": [
+      "Friedhilde Pieper-Ring"
+    ],
+    "publisher": "Schmiedt Ortmann OHG mbH",
+    "likes": 3.8,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Voluptates+suscipit+delectus"
+  },
+  {
+    "index": 391,
+    "isbn": "978-1-83957-189-3",
+    "title": "Libero rem labore",
+    "authors": [
+      "Ing. Mato Rogge",
+      "Klaus-Jürgen Zobel-Kreusel"
+    ],
+    "publisher": "Hertrampf",
+    "likes": 4.1,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Libero+rem+labore"
+  },
+  {
+    "index": 392,
+    "isbn": "978-0-8246-8734-2",
+    "title": "Neque minima illum impedit accusamus",
+    "authors": [
+      "Marion Mans-Hermighausen",
+      "Ing. Cristina Schenk"
+    ],
+    "publisher": "Wagner",
+    "likes": 8.9,
+    "reviews": [
+      {
+        "author": "Herr Hans-Martin Trapp B.Eng.",
+        "text": "Aliquam eius sunt numquam soluta. Earum praesentium vitae magni suscipit sint quasi."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Neque+minima+illum+impedit+accusamus"
+  },
+  {
+    "index": 393,
+    "isbn": "978-0-08-664040-6",
+    "title": "Sequi sunt ullam",
+    "authors": [
+      "Ingelore Fritsch B.Sc."
+    ],
+    "publisher": "Kreusel Henschel GmbH & Co. KG",
+    "likes": 9.3,
+    "reviews": [
+      {
+        "author": "Frau Rabea Birnbaum",
+        "text": "Vitae assumenda sapiente nemo exercitationem quisquam. Laboriosam quae tenetur deserunt consequatur sapiente."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Sequi+sunt+ullam"
+  },
+  {
+    "index": 394,
+    "isbn": "978-1-83144-044-9",
+    "title": "Corporis quam",
+    "authors": [
+      "Klaus-Günter Ortmann B.Sc.",
+      "Jozef Lange"
+    ],
+    "publisher": "Wilmsen GmbH",
+    "likes": 1.8,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Corporis+quam"
+  },
+  {
+    "index": 395,
+    "isbn": "978-1-00-437527-1",
+    "title": "Ipsam",
+    "authors": [
+      "Rene Stey"
+    ],
+    "publisher": "Rohleder e.V.",
+    "likes": 5.7,
+    "reviews": [
+      {
+        "author": "Frau Fatma Hörle",
+        "text": "Quibusdam dolorem quasi et quos dolorum ullam. Aperiam ab blanditiis laudantium ipsam porro ullam modi."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Ipsam"
+  },
+  {
+    "index": 396,
+    "isbn": "978-1-943015-68-9",
+    "title": "Cumque aliquam",
+    "authors": [
+      "Alois Junk-Thanel"
+    ],
+    "publisher": "Oestrovsky",
+    "likes": 3.5,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Cumque+aliquam"
+  },
+  {
+    "index": 397,
+    "isbn": "978-1-74294-596-5",
+    "title": "Numquam pariatur",
+    "authors": [
+      "Jiri Conradi"
+    ],
+    "publisher": "Stroh",
+    "likes": 0.3,
+    "reviews": [
+      {
+        "author": "Dipl.-Ing. Hans-Martin Geisler",
+        "text": "Magnam labore qui odit ipsum inventore. Atque doloremque libero soluta et ipsam. Magnam suscipit occaecati quibusdam."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Numquam+pariatur"
+  },
+  {
+    "index": 398,
+    "isbn": "978-0-06-737514-3",
+    "title": "Nihil ex natus",
+    "authors": [
+      "Claudius Noack",
+      "Elena Stroh B.A."
+    ],
+    "publisher": "Eimer KGaA",
+    "likes": 8.5,
+    "reviews": [
+      {
+        "author": "Katharine Kostolzin",
+        "text": "Aut repellendus ducimus blanditiis temporibus quae neque quis. Cumque cupiditate accusantium natus."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Nihil+ex+natus"
+  },
+  {
+    "index": 399,
+    "isbn": "978-0-86652-954-9",
+    "title": "Totam",
+    "authors": [
+      "Matteo Losekann B.Sc."
+    ],
+    "publisher": "Kallert Holzapfel GmbH & Co. KG",
+    "likes": 7.9,
+    "reviews": [],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Totam"
+  },
+  {
+    "index": 400,
+    "isbn": "978-0-462-29104-8",
+    "title": "Fuga a fugit",
+    "authors": [
+      "Ariane Gutknecht-Mohaupt",
+      "Maren Johann B.Sc."
+    ],
+    "publisher": "Jacobi Jäckel Hermann GmbH",
+    "likes": 3.3,
+    "reviews": [
+      {
+        "author": "Hans-Rudolf Rohleder",
+        "text": "Quidem quam nesciunt veniam soluta nobis. Qui aliquam expedita odit. Modi odit natus voluptatem recusandae."
+      }
+    ],
+    "cover": "https://dummyimage.com/400x600/cccccc/000000&text=Fuga+a+fugit"
+  }
+]
