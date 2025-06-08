@@ -21,7 +21,7 @@ const List = ({ language, seed, like, review }) => {
     setBooks([]);
     const count = page === 0 ? 20 : 10;
     const offset = page === 0 ? 0 : 20 + (page - 1) * 10;
-    const newBooks = book_create({ language, seed, page,like, review, count, offset });
+    const newBooks = book_create({ language, seed, page, like, review, count, offset });
     setBooks((prev) => [...prev, ...newBooks]);
     page++;
     console.log('chaqirilyapti');

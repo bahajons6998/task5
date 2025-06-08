@@ -30,7 +30,7 @@ export default function App() {
             options={[
               { value: 'en', label: 'USA' },
               { value: 'de', label: 'GERMANY' },
-              { value: 'ja', label: 'JAPAN' }
+              { value: 'jp', label: 'JAPAN' }
             ]} />
         </label>
         <label className="d-flex align-items-center">Seed:
@@ -48,6 +48,7 @@ export default function App() {
             type="range"
             min={1}
             max={10}
+            step={0.1}
             className="mx-2"
             style={{ width: 120 }}
             value={like}
@@ -58,6 +59,7 @@ export default function App() {
           <input
             type="range"
             min={1}
+            step={0.1}
             max={10}
             className="mx-2"
             style={{ width: 120 }}
