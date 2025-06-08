@@ -11,25 +11,33 @@ function getPageSeed(seed, page) {
   return parseInt(seed) + page * 10000;
 }
 
-export function book_create({ language = 'en', seed, page = 0, count = 20,offset = 0 }) {
+export function book_create({ language = 'en', seed, page, like, review, count = 20, offset = 0 }) {
   const faker = new Faker({ locale: localeMap[language] || [en, base] });
-  if (seed)  faker.seed(getPageSeed(seed, page));
+  if (seed) faker.seed(getPageSeed(seed, page));
 
   return Array.from({ length: count }, (_, index) => ({
-    index: offset + index,
+    index: offset + index + 1,
     isbn: faker.string.uuid(),
-    title: faker.commerce.productName(), // endi fallback orqali ishlaydi
+    title: faker.commerce.productName(), 
     authors: [faker.person.fullName()],
     publisher: faker.company.name(),
-    cover: faker.image.urlLoremFlickr({ width: 250, height: 300, category: 'book' }),
-    likes: faker.number.int({ min: 0, max: 10 }),
-    review: faker.number.int({ min: 0, max: 10 }),
+    cover: faker.image.urlLoremFlickr({ width: 250, height: 300 }),
+    likes: faker.number.int({ min: 0, max: like }),
+    review: faker.number.int({ min: 0, max: review }),
     reviews: [
       {
         author: faker.person.fullName(),
         text: faker.lorem.sentence(),
       },
+      {
+        author: faker.person.fullName(),
+        text: faker.lorem.sentence(),
+      },
+      {
+        author: faker.person.fullName(),
+        text: faker.lorem.sentence(),
+      },
     ],
-    description: faker.lorem.paragraph(),
+    description: faker.lorem.paragraph({ min: 10, max: 11 }),
   }));
 }
